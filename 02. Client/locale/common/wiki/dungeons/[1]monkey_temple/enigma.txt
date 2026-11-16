@@ -1,0 +1,188 @@
+[\
+    DUNGEON;\
+    X=10;\
+    Y=10;\
+    VNUM_1=4506;\
+    TEXT_1={WK:403};\
+    TEXT_2={WK:404:70:105};\
+    TEXT_3={WK:405:30 min};\
+    TEXT_4={WK:406} {WK:564};\
+    TEXT_5={WK:865};\
+    TEXT_6={WK:408:-};\
+]
+[BUTTON=d:/ymir work/ui/game/common/button_xlarge_norm.png#d:/ymir work/ui/game/common/button_xlarge_hover.png#d:/ymir work/ui/game/common/button_xlarge_down.png; X=361; Y=178; LINKINDEX=mob#4506#0.0; TEXT={WK:409}; COLOR_TEXT=cebb98]
+
+
+[\
+    TITLE;\
+    X=10;\
+    Y=256;\
+    TEXT_1={WK:866};\
+]
+
+
+[\
+    TITLE;\
+    X=10;\
+    Y=327;\
+    ANCHOR=enigma_easy;\
+    TEXT_1={WK:867};\
+]
+
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=26; TABLE_HIDE_TITLE=0; X=10; Y=378; TABLE_HEADERS={WK:15}|{WK:114}; TABLE_WIDTHS=180|360]
+[TR; H=42]
+[TD; TEXT={WK:868}; ALIGN=center]
+[TD; TEXT={WK:869}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:57}; ALIGN=center]
+[TD; TEXT={WK:870}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:871}; ALIGN=center]
+[TD; TEXT={WK:872}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:873}; ALIGN=center]
+[TD; TEXT={WK:874}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:19}; ALIGN=center]
+[TD; TEXT={WK:875}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:162}; ALIGN=center]
+[TD; TEXT={WK:876}; ALIGN=center]
+[TABLE_END]
+
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=672; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=58]
+[TD; TEXT={WK:878}; ALIGN=center]
+[TABLE_END]
+
+
+[\
+    TITLE;\
+    X=10;\
+    Y=750;\
+    ANCHOR=enigma_medium;\
+    TEXT_1={WK:879};\
+]
+
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=26; TABLE_HIDE_TITLE=0; X=10; Y=801; TABLE_HEADERS={WK:15}|{WK:114}; TABLE_WIDTHS=180|360]
+[TR; H=42]
+[TD; TEXT={WK:868}; ALIGN=center]
+[TD; TEXT={WK:880}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:57}; ALIGN=center]
+[TD; TEXT={WK:881}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:871}; ALIGN=center]
+[TD; TEXT={WK:882}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:873}; ALIGN=center]
+[TD; TEXT={WK:883}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:19}; ALIGN=center]
+[TD; TEXT={WK:884}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:162}; ALIGN=center]
+[TD; TEXT={WK:885}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:161}; ALIGN=center]
+[TD; TEXT={WK:886}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:887}; ALIGN=center]
+[TD; TEXT={WK:888}; ALIGN=center]
+[TABLE_END]
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=1207; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=58]
+[TD; TEXT={WK:889}; ALIGN=center]
+[TABLE_END]
+
+
+
+
+[\
+    TITLE;\
+    X=10;\
+    Y=1285;\
+    ANCHOR=enigma_hard;\
+    TEXT_1={WK:890};\
+]
+
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=26; TABLE_HIDE_TITLE=0; X=10; Y=1336; TABLE_HEADERS={WK:15}|{WK:114}; TABLE_WIDTHS=180|360]
+[TR; H=42]
+[TD; TEXT={WK:868}; ALIGN=center]
+[TD; TEXT={WK:891}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:57}; ALIGN=center]
+[TD; TEXT={WK:892}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:871}; ALIGN=center]
+[TD; TEXT={WK:893}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:873}; ALIGN=center]
+[TD; TEXT={WK:883}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:19}; ALIGN=center]
+[TD; TEXT={WK:884}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:162}; ALIGN=center]
+[TD; TEXT={WK:894}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:161}; ALIGN=center]
+[TD; TEXT={WK:895}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:887}; ALIGN=center]
+[TD; TEXT={WK:896}; ALIGN=center]
+[TABLE_END]
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=1730; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=58]
+[TD; TEXT={WK:897}; ALIGN=center]
+[TABLE_END]
+
+[\
+    TITLE;\
+    X=10;\
+    Y=1808;\
+    ANCHOR=enigma_stages;\
+    TEXT_1={WK:898};\
+]
+
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=26; TABLE_HIDE_TITLE=0; X=10; Y=1859; TABLE_HEADERS={WK:899}|{WK:801}; TABLE_WIDTHS=80|460]
+[TR; H=42]
+[TD; TEXT={WK:900}; ALIGN=center]
+[TD; TEXT={WK:901}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:902}; ALIGN=center]
+[TD; TEXT={WK:903}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:904}; ALIGN=center]
+[TD; TEXT={WK:905}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:906}; ALIGN=center]
+[TD; TEXT={WK:907}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:908}; ALIGN=center]
+[TD; TEXT={WK:909}; ALIGN=center]
+[TR; H=82]
+[TD; TEXT={WK:910}; ALIGN=center]
+[TD; TEXT={WK:911}; ALIGN=center]
+[TR; H=42]
+[TD; TEXT={WK:912}; ALIGN=center]
+[TD; TEXT={WK:901}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:913}; ALIGN=center]
+[TD; TEXT={WK:914}; ALIGN=center]
+[TR; H=58]
+[TD; TEXT={WK:915}; ALIGN=center]
+[TD; TEXT={WK:916}; ALIGN=center]
+[TABLE_END]
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=2361; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=58]
+[TD; TEXT={WK:917}; ALIGN=center]
+[TABLE_END]
+
+
+

@@ -1,0 +1,73 @@
+AUTO_GUIDE_START	Rehberi Baþlat
+AUTO_ITEM_ADI	Eþya Adý
+TASKBAR_SWITCHBOT	Efsun Botu
+TASKBAR_WIKI	Wiki
+TOOLTIP_SHORTCUT_MULTI_BUY	Çoklu satýn al
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Maðaza Ara
+TOOLTIP_SHORTCUT_WIKI	Wikipedia'yý aç
+WIKI_BONUS_10	HP Üretimi
+WIKI_BONUS_100	Ateþin gücü
+WIKI_BONUS_101	Buzun gücü
+WIKI_BONUS_102	Rüzgarýn gücü
+WIKI_BONUS_103	Topraðýn gücü
+WIKI_BONUS_104	Karanlýðýn gücü
+WIKI_BONUS_11	SP Üretimi
+WIKI_BONUS_119	Metinlere karþý güçlü
+WIKI_BONUS_12	Zehirleme þansý
+WIKI_BONUS_120	Patronlara karþý güçlü
+WIKI_BONUS_121	Zindanlarda güçlü
+WIKI_BONUS_123	Bosslara karþý direnç
+WIKI_BONUS_13	Bayýlma þansý
+WIKI_BONUS_133	Elementlere karþý güçlü
+WIKI_BONUS_136	Delici vuruþ gücü
+WIKI_BONUS_14	Yavaþlama þansý
+WIKI_BONUS_156	PvM kritik vuruþ hasarý
+WIKI_BONUS_23	Hasar, HP ile absorbe edilir
+WIKI_BONUS_24	Hasar, SP ile absorbe edilir
+WIKI_BONUS_27	Yakýn dövüþ saldýrýlarýný bloklama þansý
+WIKI_BONUS_28	Oklarý savuþturma þansý
+WIKI_BONUS_39	Yakýn dövüþ vuruþlarýný yansýtma þansý
+WIKI_BONUS_43	EXP bonus þansý
+WIKI_BONUS_44	Ýki kat yang düþme þansý
+WIKI_BONUS_53	Saldýrý deðeri
+WIKI_BONUS_63	Canavarlara karþý güçlü
+WIKI_BONUS_69	Maks. HP
+WIKI_BONUS_72	Ortalama zarar
+WIKI_BONUS_73	Beceri hasarýna karþý koyma
+WIKI_BONUS_74	Ortalama zarara direnç
+WIKI_BONUS_8	Hareket hýzý
+WIKI_BONUS_99	Þimþeklerin gücü
+WIKI_BOSS_TIER_DUNGEON	Zindan Bossu
+WIKI_BOSS_TIER_LOW	Düþük Seviye Boss
+WIKI_BOSS_TIER_MINI_DUNGEON	Mini Zindan Bosu
+WIKI_CATEGORY_CRAFT	Craft
+WIKI_CATEGORY_SHOP	Maðaza
+WIKI_COSTUME_TAB_ARMOR	Zýrhlar
+WIKI_COSTUME_TAB_HAIR	Saç kesimi
+WIKI_COSTUME_TAB_PETS	Petler
+WIKI_COSTUME_TAB_SASH	Kuþak
+WIKI_COSTUME_TAB_SHINING	Parýltý
+WIKI_COSTUME_TAB_WEAPON	Silahlar
+WIKI_CRAFT_INCREASE	Increase
+WIKI_CRAFT_MATERIALS	Materials
+WIKI_CRAFT_RESULT	Result
+WIKI_ENERGY_CRYSTAL	Enerji Kristali
+WIKI_ENIGMA_ITEMS	Enigma Eþyalarý
+WIKI_FISHING_MINING	Balýkçýlýk/Madencilik
+WIKI_HOME	Home
+WIKI_ITEM_SNAKE_TAIL	Yýlan Kuyruðu
+WIKI_ITEM_SPIDER_LEGS	Örümcek Bacaklarý
+WIKI_METIN_TIER_DUNGEON	Zindan Metini
+WIKI_METIN_TIER_RARE	Nadir ve Efsanevi Metinler
+WIKI_MOUNT_ENERGY	energy
+WIKI_MOUNT_RUNES	Runes
+WIKI_NO_DATA	-
+WIKI_PET_EVOLUTION	Evolution
+WIKI_SHOP_PRICE	Price
+WIKI_SHRINES	Shrines
+WIKI_STONES_ALSO_AVAILABLE	Also available:
+WIKI_TIER_1	Kademe I
+WIKI_TIER_2	Kademe II
+WIKI_TIER_3	Kademe III
+WIKI_TIER_4	Kademe IV
+WIKI_TIER_5	Seviye V

@@ -1,0 +1,71 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/skins.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Kostüm ve Skin Rehberi
+
+[COLOR=0xffd700;FONT_SIZE=18]Içerik Listesi:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Temel Bilgiler
+[X_PADDING=5;FONT_SIZE=14]* 2. Güçlendirmeler
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Temel Bilgiler
+
+[CENTER_ALIGN;FONT_SIZE=14]Anka2.com dünyasinda kozmetik esyalari hem oyun içinde
+[CENTER_ALIGN;FONT_SIZE=14]hem de esya magazasinda elde edebilirsiniz.
+[CENTER_ALIGN;FONT_SIZE=14]Aralarindaki fark yalnizca kullanim süresindedir. 15 günlük kozmetikler,
+[CENTER_ALIGN;FONT_SIZE=14]sehirde bulunan bir NPC’den Kirmizi Tas karsiliginda satin alinabilir.
+
+[CENTER_ALIGN;FONT_SIZE=14]Tüm Anka2.com skinleri, kostümleri ve saç stillerine — kalici veya geçici fark etmeksizin — 
+[CENTER_ALIGN;FONT_SIZE=14]ozel bonuslar eklenebilir. Hepsi, içerisine Güçlendirme ekleyebileceginiz 3 yuvaya sahiptir.
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/costume.tga; Y=350; CENTER_ALIGN]
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=650; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Güçlendirmeler
+
+[CENTER_ALIGN;FONT_SIZE=14]Kostüm ve gorünüm esyalarini zevkinize gore ozellestirmenizi saglayan
+[CENTER_ALIGN;FONT_SIZE=14]çok sayida güçlendirme bonusu mevcuttur. Bu güçlendirmelerin tümü,
+[CENTER_ALIGN;FONT_SIZE=14]patron canavarlari oldürerek elde edeceginiz sandiklardan çikabilir.
+[CENTER_ALIGN;FONT_SIZE=14]Patronun seviyesi ne kadar yüksekse, daha kaliteli güçlendirme elde
+[CENTER_ALIGN;FONT_SIZE=14]etme olasiliginiz da o kadar artar.
+
+[CENTER_ALIGN;FONT_SIZE=14]Temel olarak 3 tür Güçlendirme vardir: silah gorünümü, saç stili
+[CENTER_ALIGN;FONT_SIZE=14]ve kostüm güçlendirmeleri. Her biri 3 farkli kaliteye sahiptir:
+[CENTER_ALIGN;FONT_SIZE=14]Kirmizi Güçlendirmeler yüksek bonus verir, Yesil Güçlendirmeler
+[CENTER_ALIGN;FONT_SIZE=14]orta seviye bonus verir, Mavi Güçlendirmeler ise küçük bonus saglar.
+
+[CENTER_ALIGN;FONT_SIZE=14]Ayrica Kirmizi Güçlendirmeleri esya marketinden de temin edebilirsiniz.

@@ -1,0 +1,2 @@
+TASKBAR_SWITCHBOT	Bot de vrãji
+TASKBAR_WIKI	Wiki

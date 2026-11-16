@@ -1,0 +1,158 @@
+AUTO_GUIDE_START	Leitfaden starten
+AUTO_ITEM_ADI	Gegenstandsname
+BERANSETAOU	Blauer Drache
+CATACUMB	Teufels Katakomben
+DEVILTOWER	Gumsan-Turm
+ENERGY_CRYSTAL	Energiekristall
+FLAMEDUNGEON	Rote-Drachen-Festung
+HYDRADUNGEON	Schiffsverteidigung
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Meleys Hort
+SNOWDUNGEON	Nemerés Observatorium
+SPIDERBARONESA	Nest der Spinnenbaronin
+TASKBAR_SWITCHBOT	Verzauberungs-Bot
+TASKBAR_WIKI	Wiki
+TOOLTIP_SHORTCUT_MULTI_BUY	Mehrfach kaufen
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Shop durchsuchen
+TOOLTIP_SHORTCUT_WIKI	Wikipedia öffnen
+WIKI_AKZADUR	Akzadur-Dungeon
+WIKI_ALCHEMY	Alchemie-System
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biologe
+WIKI_BONUS_10	TP-Regeneration
+WIKI_BONUS_100	Macht des Feuers
+WIKI_BONUS_101	Macht des Eises
+WIKI_BONUS_102	Macht des Windes
+WIKI_BONUS_103	Macht der Erde
+WIKI_BONUS_104	Macht der Dunkelheit
+WIKI_BONUS_11	MP-Regeneration
+WIKI_BONUS_119	Stärke gegen Metinsteine
+WIKI_BONUS_12	Vergiftungschance
+WIKI_BONUS_120	Stärke gegen Bosse
+WIKI_BONUS_121	Stärke in Dungeons
+WIKI_BONUS_123	Widerstand gegen Bosse
+WIKI_BONUS_13	Betäubungschance
+WIKI_BONUS_133	Stärke gegen Elemente
+WIKI_BONUS_136	Kraft durchbohrender Treffer
+WIKI_BONUS_14	Verlangsamungschance
+WIKI_BONUS_156	Schaden kritischer Treffer (PvM)
+WIKI_BONUS_23	Schaden wird als TP absorbiert
+WIKI_BONUS_24	Schaden wird als MP absorbiert
+WIKI_BONUS_27	Chance, Nahkampfangriffe zu blocken
+WIKI_BONUS_28	Chance, Pfeile abzuwehren
+WIKI_BONUS_39	Chance, Nahkampftreffer zu reflektieren
+WIKI_BONUS_43	Chance auf EXP-Bonus
+WIKI_BONUS_44	Chance auf doppeltes Yang
+WIKI_BONUS_53	Angriffswert
+WIKI_BONUS_63	Stärke gegen Monster
+WIKI_BONUS_69	Max HP
+WIKI_BONUS_72	Durchschnittsschaden
+WIKI_BONUS_73	Widerstand gegen Fertigkeitsschaden
+WIKI_BONUS_74	Widerstand gegen Durchschnittsschaden
+WIKI_BONUS_8	Bewegungsgeschwindigkeit
+WIKI_BONUS_99	Macht des Blitzes
+WIKI_BOOSTER	Booster
+WIKI_BOSSES	Bosse
+WIKI_BOSS_TIER_DUNGEON	Dungeon Boss
+WIKI_BOSS_TIER_LOW	Niedriger Boss
+WIKI_BOSS_TIER_MINI_DUNGEON	Dungeon Mini Boss
+WIKI_CATEGORY_CRAFT	Craft
+WIKI_CATEGORY_SHOP	Shop
+WIKI_CHESTS	Kisten
+WIKI_CHESTS_BOSS	Boss-Kisten
+WIKI_CHESTS_DUNGEON	Dungeon-Kisten
+WIKI_CHESTS_EVENT	Event-Kisten
+WIKI_CHESTS_OTHER	Andere Kisten
+WIKI_CONTENT_INFO	Kisteninhalt %s
+WIKI_COSTUME	Kostüme
+WIKI_COSTUMES	Kostüme
+WIKI_COSTUME_TAB_ARMOR	Rüstung
+WIKI_COSTUME_TAB_HAIR	Frisur
+WIKI_COSTUME_TAB_PETS	Pets
+WIKI_COSTUME_TAB_SASH	Schulterband
+WIKI_COSTUME_TAB_SHINING	Glanz
+WIKI_COSTUME_TAB_WEAPON	Waffen
+WIKI_CRAFT_INCREASE	Erhöhung
+WIKI_CRAFT_MATERIALS	Materialien
+WIKI_CRAFT_RESULT	Ergebnis
+WIKI_DROPLIST_INFO	Drop-Liste von %s
+WIKI_ENERGY_CRYSTAL	Energiekristall
+WIKI_ENIGMA_ITEMS	Enigma Items
+WIKI_EQUIPMENT	Ausrüstung
+WIKI_EQUIPMENT_ARMOR	Rüstung
+WIKI_EQUIPMENT_BELT	Gürtel
+WIKI_EQUIPMENT_BRACELET	Armbänder
+WIKI_EQUIPMENT_EARRING	Ohrringe
+WIKI_EQUIPMENT_HELMET	Helme
+WIKI_EQUIPMENT_NECKLACE	Halsketten
+WIKI_EQUIPMENT_SHIELD	Schilde
+WIKI_EQUIPMENT_SHOES	Schuhe
+WIKI_EQUIPMENT_WEAPONS	Waffen
+WIKI_EVENTS	Events
+WIKI_FAQ2	FAQ
+WIKI_FISHING_MINING	Angeln/Bergbau
+WIKI_GAME_RULES	Spielregeln
+WIKI_GUIDES2	Anka2-Wissen
+WIKI_HOME	Start
+WIKI_INFO_NO_RACE	Keine
+WIKI_INFO_RACE_ANIMAL	Tier
+WIKI_INFO_RACE_DARK	Dunkelheit
+WIKI_INFO_RACE_DEVIL	Teufel
+WIKI_INFO_RACE_EARTH	Erde
+WIKI_INFO_RACE_ELEC	Blitz
+WIKI_INFO_RACE_FIRE	Feuer
+WIKI_INFO_RACE_HUMAN	Halb-Mensch
+WIKI_INFO_RACE_ICE	Eis
+WIKI_INFO_RACE_METIN	Metinstein
+WIKI_INFO_RACE_MILGYO	Mystisch
+WIKI_INFO_RACE_ORC	Ork
+WIKI_INFO_RACE_UNDEAD	Zombie
+WIKI_INFO_RACE_WIND	Wind
+WIKI_INFO_RACE_ZODIAC	Tierkreis
+WIKI_INFO_RESIST_BELL	Glocke
+WIKI_INFO_RESIST_BOW	Bogen
+WIKI_INFO_RESIST_DAGGER	Klinge
+WIKI_INFO_RESIST_FAN	Fächer
+WIKI_INFO_RESIST_MAGIC	Magie
+WIKI_INFO_RESIST_SWORD	Schwert
+WIKI_INFO_RESIST_TWOHAND	Zweihand
+WIKI_ITEM_NAME	Itemname
+WIKI_ITEM_SNAKE_TAIL	Schlangenschwanz
+WIKI_ITEM_SPIDER_LEGS	Spinnenbeine
+WIKI_LEVEL_MOB_TEXT	Stufe %d
+WIKI_LEVEL_TEXT	Stufe %d - Verbesserungsbereich %d~%d
+WIKI_LEVEL_TEXT2	Stufe %d~%d - Verbesserungsbereich %d~%d
+WIKI_METINSTONE	Metinsteine
+WIKI_METIN_TIER_DUNGEON	Dungeon Metin
+WIKI_METIN_TIER_RARE	Seltene und Legendäre Metins
+WIKI_MOB_NAME	Monstername
+WIKI_MONSTER	Monster
+WIKI_MOUNT_ENERGY	Energie
+WIKI_MOUNT_ITEM	Reittiere
+WIKI_MOUNT_RUNES	Runen
+WIKI_NO_DATA	-
+WIKI_ORIGIN	Ort
+WIKI_PETS	Pets
+WIKI_PET_EVOLUTION	Entwicklung
+WIKI_SHOP_PRICE	Preis
+WIKI_SHRINES	Schreine
+WIKI_STATICS_INFO_DEFENSES	|cFFc79e65Resistenzen:|h|r
+WIKI_STATICS_INFO_DMG	Min. Schaden:%d | Max. Schaden:%d | Max. TP: %d
+WIKI_STATICS_INFO_TYPE	Typ: %s | Untertyp: %s
+WIKI_STATICS_INFO_YNG	Min. Yang:%d | Max. Yang:%d | EXP: %d
+WIKI_STONES_ALSO_AVAILABLE	Ebenfalls verfügbar:
+WIKI_SYSTEM2	Grundsysteme
+WIKI_TALISMAN	Talismane
+WIKI_TEMNITE	Dungeons
+WIKI_THESTART2	Anfang
+WIKI_TIER_1	Stufe I
+WIKI_TIER_2	Stufe II
+WIKI_TIER_3	Stufe III
+WIKI_TIER_4	Stufe IV
+WIKI_TIER_5	Stufe V
+WIKI_TITLE	Wikipedia
+WIKI_UNKOWN_ITEM	Unbekannter Gegenstand: %d
+WIKI_UNKOWN_MOB	Unbekanntes Monster: %d
+WIKI_UPGRADE_COSTS	Evolution
+WIKI_YANG_COSTS	Kosten (Yang)
+WIKI_ZODIAC	Tierkreistempel

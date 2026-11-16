@@ -1,0 +1,2 @@
+RECEIVE_MESSAGE	%s wys³a³ Ci wiadomoœæ.
+UI_DEF_FONT	Tahoma:12

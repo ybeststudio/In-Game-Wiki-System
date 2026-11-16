@@ -1,0 +1,158 @@
+AUTO_GUIDE_START	Spustit prùvodce
+AUTO_ITEM_ADI	Název pøedmìtu
+BERANSETAOU	Modrý drak
+CATACUMB	Ïáblovy katakomby
+DEVILTOWER	Vìž Gumsan
+ENERGY_CRYSTAL	Krystal energie
+FLAMEDUNGEON	Pevnost Rudého draka
+HYDRADUNGEON	Obrana proti lodím
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Meleyino doupì
+SNOWDUNGEON	Nemerova observatoø
+SPIDERBARONESA	Doupì Baronky
+TASKBAR_SWITCHBOT	Bot na bonusy
+TASKBAR_WIKI	Wiki
+TOOLTIP_SHORTCUT_MULTI_BUY	Hromadný nákup
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Hledat v obchodì
+TOOLTIP_SHORTCUT_WIKI	Otevøete Wikipedii
+WIKI_AKZADUR	Akzadurùv dungeon
+WIKI_ALCHEMY	Alchymistický systém
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	biolog
+WIKI_BONUS_10	Regenerace HP
+WIKI_BONUS_100	Síla ohnì
+WIKI_BONUS_101	Síla ledu
+WIKI_BONUS_102	Síla vìtru
+WIKI_BONUS_103	Síla zemì
+WIKI_BONUS_104	Síla temnoty
+WIKI_BONUS_11	Regenerace SP
+WIKI_BONUS_119	Silný proti Metinùm
+WIKI_BONUS_12	Šance na otravu
+WIKI_BONUS_120	Silný proti bossùm
+WIKI_BONUS_121	Silný v dungeonech
+WIKI_BONUS_123	Odolnost proti bossùm
+WIKI_BONUS_13	Šance na omráèení
+WIKI_BONUS_133	Silný proti živlùm
+WIKI_BONUS_136	Síla prùrazného zásahu
+WIKI_BONUS_14	Šance na zpomalení
+WIKI_BONUS_156	Poškození kritickým zásahem PvM
+WIKI_BONUS_23	Poškození je absorbováno HP
+WIKI_BONUS_24	Poškození je absorbováno SP
+WIKI_BONUS_27	Šance na blok útokù zblízka
+WIKI_BONUS_28	Šance na odražení šípù
+WIKI_BONUS_39	Šance na odražení zásahù zblízka
+WIKI_BONUS_43	Šance na bonus EXP
+WIKI_BONUS_44	Šance na dvojnásobný drop Yang
+WIKI_BONUS_53	Hodnota útoku
+WIKI_BONUS_63	Silný proti pøíšerám
+WIKI_BONUS_69	Max HP
+WIKI_BONUS_72	Prùmìrné poškození
+WIKI_BONUS_73	Odolnost proti poškození dovedností
+WIKI_BONUS_74	Odolnost proti prùmìrnému poškození
+WIKI_BONUS_8	Rychlost pohybu
+WIKI_BONUS_99	Síla blesku
+WIKI_BOOSTER	Posilovaèe
+WIKI_BOSSES	Šéfové
+WIKI_BOSS_TIER_DUNGEON	Boss dungeonu
+WIKI_BOSS_TIER_LOW	Šéf nízké úrovnì
+WIKI_BOSS_TIER_MINI_DUNGEON	Boss minidungeonu
+WIKI_CATEGORY_CRAFT	Øemeslo
+WIKI_CATEGORY_SHOP	Obchod
+WIKI_CHESTS	Truhly
+WIKI_CHESTS_BOSS	Boss Truhly
+WIKI_CHESTS_DUNGEON	Dungeon Truhly
+WIKI_CHESTS_EVENT	Truhly událostí
+WIKI_CHESTS_OTHER	Jiné truhly
+WIKI_CONTENT_INFO	Obsah truhly %s
+WIKI_COSTUME	Kostýmy
+WIKI_COSTUMES	Kostýmy
+WIKI_COSTUME_TAB_ARMOR	Brnìní
+WIKI_COSTUME_TAB_HAIR	Úèes
+WIKI_COSTUME_TAB_PETS	Domácí mazlíèci
+WIKI_COSTUME_TAB_SASH	Šerpa
+WIKI_COSTUME_TAB_SHINING	Záøící
+WIKI_COSTUME_TAB_WEAPON	Zbranì
+WIKI_CRAFT_INCREASE	Zvýšení
+WIKI_CRAFT_MATERIALS	Materiály
+WIKI_CRAFT_RESULT	Výsledek
+WIKI_DROPLIST_INFO	Pøehodit seznam %s
+WIKI_ENERGY_CRYSTAL	Krystal energie
+WIKI_ENIGMA_ITEMS	Pøedmìty Enigmy
+WIKI_EQUIPMENT	Vybavení
+WIKI_EQUIPMENT_ARMOR	Brnìní
+WIKI_EQUIPMENT_BELT	Pásy
+WIKI_EQUIPMENT_BRACELET	Náramky
+WIKI_EQUIPMENT_EARRING	Náušnice
+WIKI_EQUIPMENT_HELMET	Helmy
+WIKI_EQUIPMENT_NECKLACE	Náhrdelníky
+WIKI_EQUIPMENT_SHIELD	Štíty
+WIKI_EQUIPMENT_SHOES	Boty
+WIKI_EQUIPMENT_WEAPONS	Zbranì
+WIKI_EVENTS	Události
+WIKI_FAQ2	FAQ
+WIKI_FISHING_MINING	Rybolov/tìžba
+WIKI_GAME_RULES	Pravidla hry
+WIKI_GUIDES2	Informace o Anka2
+WIKI_HOME	Domù
+WIKI_INFO_NO_RACE	žádný
+WIKI_INFO_RACE_ANIMAL	Zvíøe
+WIKI_INFO_RACE_DARK	Temnota
+WIKI_INFO_RACE_DEVIL	Devil
+WIKI_INFO_RACE_EARTH	Zemì
+WIKI_INFO_RACE_ELEC	Blesk
+WIKI_INFO_RACE_FIRE	Oheò
+WIKI_INFO_RACE_HUMAN	Napùl èlovìk
+WIKI_INFO_RACE_ICE	led
+WIKI_INFO_RACE_METIN	Metinový kámen
+WIKI_INFO_RACE_MILGYO	Mystik
+WIKI_INFO_RACE_ORC	Orc
+WIKI_INFO_RACE_UNDEAD	Zombie
+WIKI_INFO_RACE_WIND	Vítr
+WIKI_INFO_RACE_ZODIAC	Zodiac
+WIKI_INFO_RESIST_BELL	Bell
+WIKI_INFO_RESIST_BOW	Luk
+WIKI_INFO_RESIST_DAGGER	Èepel
+WIKI_INFO_RESIST_FAN	Ventilátor
+WIKI_INFO_RESIST_MAGIC	Magie
+WIKI_INFO_RESIST_SWORD	Meè
+WIKI_INFO_RESIST_TWOHAND	Obouruèní
+WIKI_ITEM_NAME	Název položky
+WIKI_ITEM_SNAKE_TAIL	Hadí ocas
+WIKI_ITEM_SPIDER_LEGS	Pavouèí nohy
+WIKI_LEVEL_MOB_TEXT	Úroveò %d
+WIKI_LEVEL_TEXT	Úroveò %d - zúžit rozsah %d~%d
+WIKI_LEVEL_TEXT2	Úroveò %d~%d - zúžit rozsah %d~%d
+WIKI_METINSTONE	Metinové kameny
+WIKI_METIN_TIER_DUNGEON	Metin dungeonu
+WIKI_METIN_TIER_RARE	Vzácné a legendární Metiny
+WIKI_MOB_NAME	Název gangu
+WIKI_MONSTER	Monstra
+WIKI_MOUNT_ENERGY	Energie
+WIKI_MOUNT_ITEM	Držáky
+WIKI_MOUNT_RUNES	Runy
+WIKI_NO_DATA	-
+WIKI_ORIGIN	Umístìní
+WIKI_PETS	Mazlíci
+WIKI_PET_EVOLUTION	Evoluce
+WIKI_SHOP_PRICE	Cena
+WIKI_SHRINES	Chrámy
+WIKI_STATICS_INFO_DEFENSES	|cFFc79e65Odpory:|h|r
+WIKI_STATICS_INFO_DMG	Min. poškození:%d | Max. poškození:%d | Max. HP: %d
+WIKI_STATICS_INFO_TYPE	Druh: %s | Poddruh: %s
+WIKI_STATICS_INFO_YNG	Min. Yang:%d | Max. Yang:%d | EXP: %d
+WIKI_STONES_ALSO_AVAILABLE	Také k dispozici:
+WIKI_SYSTEM2	Základní systémy
+WIKI_TALISMAN	Talismany
+WIKI_TEMNITE	Podzemí
+WIKI_THESTART2	Zaèátek
+WIKI_TIER_1	Stupeò I
+WIKI_TIER_2	Stupeò II
+WIKI_TIER_3	Úroveò III
+WIKI_TIER_4	Stupeò IV
+WIKI_TIER_5	Úroveò V
+WIKI_TITLE	Wikipedie
+WIKI_UNKOWN_ITEM	Neznámý pøedmìt: %d
+WIKI_UNKOWN_MOB	Neznámý gang: %d
+WIKI_UPGRADE_COSTS	Evoluce
+WIKI_YANG_COSTS	Cena (jang)
+WIKI_ZODIAC	Chrám zvìrokruhu

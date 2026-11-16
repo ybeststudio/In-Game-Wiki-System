@@ -1,0 +1,107 @@
+[BANNER_IMG = d:/ymir work/ui/game/wiki/events.tga]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. ETKA°NLA°K TAKVA°MA° [F8]
+
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13; CENTER_ALIGN]Etkinlik takvimine gA¶rev A§ubuAYundaki takvim simgesine tA±klayarak
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13; CENTER_ALIGN]veya F8 tuAYuna basarak eriAYebilirsiniz.
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]2. ETKA°NLA°K TAœRLERA°
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]Aktif etkinlikleri Takvim A¼zerinden kontrol edebilirsiniz.
+
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Yeni BaAYlayan EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/begginer_event.tga; Y=170]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *TA¼m yeni karakterler 7 gA¼n boyunca Nesne Market ekipmanlarA± iA§eren
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] bir HoAY Geldin SandA±AYA± alA±r.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* AyA±AYA±AYA± KutularA± EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/moonlight_event.tga; Y=240]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktif olduAYunda karakteriniz AyA±AYA±AYA± ParA§alarA± dA¼AYA¼rA¼r.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] x10 parA§a topladA±AYA±nA±zda bunlar otomatik olarak AyA±AYA±AYA± Kutusuna dA¶nA¼AYA¼r.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Bonus EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/bonus_event.tga; Y=320]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Bu etkinliAYin simgesini gA¶rdA¼AYA¼nA¼zde, takvimdeki simgenin A¼zerine
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] gelerek alacaAYA±nA±z bonus tA¼rA¼nA¼ gA¶rebilirsiniz.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Bonuslar PVM, PVP vb. olabilir.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* A‡ift Metin DA¼AYA¼rme EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_metin_loot_event.tga; Y=400]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, metin taAYlarA±nA± kA±rarken
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] %50 daha fazla AYansla x2 eAYya dA¼AYA¼rebilirsiniz.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* A‡ift Boss DA¼AYA¼rme EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_boss_loot_event.tga; Y=480]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, sunucudaki herhangi bir bossu A¶ldA¼rdA¼AYA¼nA¼zde
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] %50 daha fazla AYansla x2 eAYya dA¼AYA¼rebilirsiniz.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* GA¶rev KitabA± EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_mission_book_event.tga; Y=570]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, karakteriniz GA¶rev KitaplarA± iA§eren
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] sandA±klar dA¼AYA¼rA¼r.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] AynA± anda 5 av gA¶revi etkinleAYtirebilirsiniz.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Zindan Bekleme SA¼resi EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/dungeon_cooldown_event.tga; Y=660]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktif olduAYu sA¼re boyunca, tamamladA±AYA±nA±z
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] zindanlarA±n bekleme sA¼releri yarA±ya dA¼AYer.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] A–rneAYin 1 saat bekleme sA¼resi olan zindan, 30 dakikaya iner.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Gizemli Anahtar DA¼AYA¼rme EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/keys_event.tga; Y=740]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, karakteriniz gizemli zindan sandA±klarA±nA±
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] aA§mak iA§in gereken anahtarlarA± iA§eren sandA±klar dA¼AYA¼rA¼r.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Okey Kart EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/okey_event.tga; Y=830]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, karakteriniz kartlar dA¼AYA¼rA¼r.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Bu kartlar birleAYtiAYinde bir deste haline gelir.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik simgesine tA±klayarak Okey kart oyunu panelini aA§abilirsiniz.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* KralA± Yakala EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/king_event.tga; Y=940]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, karakteriniz kartlar dA¼AYA¼rA¼r.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Bu kartlar birleAYtiAYinde bir deste haline gelir.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik simgesine tA±klayarak Kral kart oyunu panelini aA§abilirsiniz.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Yang DA¼AYA¼rme EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/money_drop_event.tga; Y=1030]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, karakteriniz
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] yaratA±k veya boss A¶ldA¼rdA¼AYA¼nde daha fazla yang kazanA±r.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Deneyim (EXP) EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/exp_event.tga; Y=1110]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, karakteriniz
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] yaratA±k veya boss A¶ldA¼rdA¼AYA¼nde daha fazla deneyim kazanA±r.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* EAYya DA¼AYA¼rme EtkinliAYi
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/item_drop_event.tga; Y=1190]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Etkinlik aktifken, karakteriniz
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] yaratA±k, boss veya metin A¶ldA¼rdA¼AYA¼nde daha fazla eAYya dA¼AYA¼rA¼r.

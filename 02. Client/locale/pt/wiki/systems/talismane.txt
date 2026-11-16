@@ -1,0 +1,21 @@
+[BANNER_IMG = d:/ymir work/ui/game/wiki/skins.tga]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=20]Ruh Tilsimi Bonus Listesi
+[COLOR=0xe65454;Y_PADDING=15;CENTER_ALIGN; FONT_SIZE=15]Bu bonuslardan yararlanabilmek için tüm tilsimlarin +25 seviyesinde olmasi gerekir.
+[COLOR=0xe65454;Y_PADDING=15;CENTER_ALIGN; FONT_SIZE=15]Tüm tilsimlar +25 seviyesine ulastiginda, 
+[COLOR=0xe65454;Y_PADDING=15;CENTER_ALIGN; FONT_SIZE=15]x1 Tilsim Ruh Özelligi kullanarak tüm x5 bonusu ekleyebilirsiniz.
+
+
+[COLOR=ef4f00;FONT_SIZE=30;Y_PADDING=30;X_PADDING = 55;FONT_SIZE=17]Ruh Tilsimi
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Maksimum HP +2000
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Canlilik (VIT) Maks. +12
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Zeka (INT) Maks. +12
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Güç (STR) Maks. +12
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Çeviklik (DEX) Maks. +12
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Yari Insanlara Karsi Güç Maks. +10%
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Kritik Vurus Sansi Maks. +10%
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Delici Vurus Sansi Maks. +10%
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Yaratiklara Karsi Güç Maks. +10%
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Metin Taslarina Karsi Güç Maks. +10%
+[Y_PADDING=30;X_PADDING = 55;FONT_SIZE=15]* Bosslara Karsi Güç Maks. +10%
+[ITEM=91066; IS_LINK=1; Y=170; X=10]

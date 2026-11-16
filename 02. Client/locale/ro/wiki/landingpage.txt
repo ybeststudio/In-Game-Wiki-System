@@ -1,0 +1,70 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/guide_wall.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Temel Rehber
+[CENTER_ALIGN]Burada en A�nemli kısayol tuAYlarını bulabilirsiniz!
+
+[X_PADDING=135;FONT_SIZE=15]* YA?kseltme EAYyası Deposunu aA�ar
+
+[X_PADDING=135;FONT_SIZE=15]* Ejderha TaAYı Simyasını aA�ar
+
+[X_PADDING=135;FONT_SIZE=15]* Ma�Yaza aramasındaki eAYya adı alanını temizler
+
+[X_PADDING=135;FONT_SIZE=15]* Ma�Yaza aramasındaki eAYya adını tamamlar
+
+[X_PADDING=135;FONT_SIZE=15]* GA�rev Zamanlayıcısını aA�ar
+
+[X_PADDING=135;FONT_SIZE=15]* Switchbot’u aA�ar
+
+[X_PADDING=135;FONT_SIZE=15]* Kamera aracını aA�ar
+
+[X_PADDING=135;FONT_SIZE=15]* Binek A�a�Yırma ve indirme iAYlemini yapar
+
+[X_PADDING=135;FONT_SIZE=15]* Binek A�a�Yırma ve indirme iAYlemini yapar
+
+[X_PADDING=135;FONT_SIZE=15]* Ejderha TaAYı Simyasının ilk sayfasını etkinleAYtirir veya devre dıAYı bırakır
+
+[X_PADDING=135;FONT_SIZE=15]* Ejderha TaAYı Simyasının ikinci sayfasını etkinleAYtirir veya devre dıAYı bırakır
+
+[X_PADDING=135;FONT_SIZE=15]* Ortamı yeniden yA?kler
+
+[X_PADDING=135;FONT_SIZE=15]* SeA�ilen sandıktan X adet aA�ar
+
+[X_PADDING=135;FONT_SIZE=15]* Aynı anda 10 statA? puanı ekler
+
+[X_PADDING=135;FONT_SIZE=15]* EAYyayı Depoya, Takas penceresine veya Ma�Yazaya daha hızlı taAYır
+
+[X_PADDING=135;FONT_SIZE=15]* TA?m iAYaretli eAYyaları Ma�Yazaya satar
+
+[X_PADDING=135;FONT_SIZE=15]* SeA�ilen eAYyayı anında arar
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/u.tga; Y=70; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/o.tga; Y=97; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/esc.tga; Y=125; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/tab.tga; Y=150; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/f6.tga; Y=178; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/f7.tga; Y=205; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/f10.tga; Y=232; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=259; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/g.tga; Y=259; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=287; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/h.tga; Y=287; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=313; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/o.tga; Y=313; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=341; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/p.tga; Y=341; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=368; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/f5.tga; Y=368; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=368; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/f5.tga; Y=368; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=395; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/mouse_right.tga; Y=392; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=420; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/mouse_left.tga; Y=420; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=449; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/mouse_left.tga; Y=448; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=476; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/mouse_left.tga; Y=476; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/ctrl.tga; Y=504; X=10]
+[IMG=d:/ymir work/ui/game/wiki/emoji/shift.tga; Y=504; X=60]
+[IMG=d:/ymir work/ui/game/wiki/emoji/mouse_right.tga; Y=503; X=110]

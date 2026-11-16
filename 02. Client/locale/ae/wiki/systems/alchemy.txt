@@ -1,0 +1,260 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/alchemy.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Içindekiler:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. Genel Bilgi
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Ejderha Tasi Elde Etme
+[COLOR=0x63FFB2;FONT_SIZE=14]*3. Bonuslar
+[COLOR=0x63FFB2;FONT_SIZE=14]*4. Yükseltme
+[COLOR=0x63FFB2;FONT_SIZE=14]*5. Süre ve Cikarma
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. Genel Bilgi
+[CENTER_ALIGN; FONT_SIZE=13]Ejderha Tasi Simya sistemi, yüksek seviyeli oyuncular için tasarlanmistir.
+[CENTER_ALIGN; FONT_SIZE=13]Amaç, karakterinizi belirli bir yonde güçlendirmektir.
+
+
+[CENTER_ALIGN; COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]1.1 Simya Paneline Nasil Erisilir:
+[CENTER_ALIGN; FONT_SIZE=13]* Klavyeden “O” tusuna basarak
+[CENTER_ALIGN; FONT_SIZE=13]* Envanterdeki yesil tas simgesine tiklayarak
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/dss_boton.tga; Y=290; CENTER_ALIGN]
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]2. Ejderha Tasi Elde Etme
+[CENTER_ALIGN; FONT_SIZE=13]Ejderha Tasi Simya Sistemini, 1. seviyeden itibaren tüm karakterler kullanabilir.
+[CENTER_ALIGN; FONT_SIZE=13]Bunun için 10x Ejderha Tasi Parçasi toplamaniz gerekir;
+[CENTER_ALIGN; FONT_SIZE=13]bu parçalar otomatik olarak Cor Draconis (Ham) haline donüsecektir.
+
+
+[ITEM=30270; IS_LINK=1; Y=420; X=220]
+[ITEM=50252; IS_LINK=1; Y=420; X=280]
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=470; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]3. Bonuslar
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]Gosterilen bonuslar maksimum degerleri temsil etmektedir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Efsanevi Ejderha Elmasi
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]* Zeka (INT) +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Buz Direnci +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Beceri Hasari +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Büyü Saldiri Degeri +60
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Büyü Savunmasi +30
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* %12 SP Yenileme Sansi
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Yaratiklara Karsi Güç +15%
+[ITEM=115400; IS_LINK=1; Y=590; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Efsanevi Ejderha Yakutu
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]* Güç (STR) +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Ates Direnci +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Savasçilara Karsi Savunma +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Savasçilara Karsi Güç +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Deneyim (EXP) +25%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Savunma +150
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Saldiri Degeri +180
+[ITEM=125400; IS_LINK=1; Y=710; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Efsanevi Ejderha Yesim Tasi
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]* Maksimum SP +1500
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Rüzgar Direnci +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Suralara Karsi Savunma +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Suralara Karsi Güç +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Beceri Hasarina Karsi Direnç +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* SP Yenilenmesi +30%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* %12 HP Yenileme Sansi
+[ITEM=135400; IS_LINK=1; Y=840; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Efsanevi Ejderha Safiri
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]* Ceviklik (DEX) +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Toprak Direnci +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Samanlara Karsi Savunma +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Samanlara Karsi Güç +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Maksimum HP +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* HP Yenilenmesi +30%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Metin Taslarina Karsi Güç +12%
+[ITEM=145400; IS_LINK=1; Y=970; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Efsanevi Ejderha Lal Tasi
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]* Maksimum HP +3000
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Yildirim Direnci +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Ninjalar Karsi Savunma +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Ninjalar Karsi Güç +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Ortalama Hasar Direnci +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Maksimum SP +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Bosslara Karsi Güç +12%
+[ITEM=155400; IS_LINK=1; Y=1100; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Efsanevi Ejderha Oniksi
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]* Canlilik (VIT) +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Karanlik Direnci +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Yakin Dovüs Saldirisini Engelleme Sansi +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Kritik Vurus Sansi +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Delici Vurus Sansi +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Ortalama Hasar +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]* Ok Kaçinma Sansi +15%
+[ITEM=165400; IS_LINK=1; Y=1230; X=10]
+
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=1320; CENTER_ALIGN]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]4. Yükseltme
+[CENTER_ALIGN; FONT_SIZE=13]Ejderha taslarinin yükseltilebilen 3 farkli ozelligi vardir:
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Sinif
+[CENTER_ALIGN; FONT_SIZE=13]Kaba, Keskin, Nadir, Kadim, Efsanevi ve Mitik.
+[CENTER_ALIGN; FONT_SIZE=13]Sinif ne kadar yüksek olursa, tasin bonuslari da o kadar fazla olur.
+[CENTER_ALIGN; FONT_SIZE=13]Ejderha taslari yalnizca Kadim, Efsanevi ve Mitik siniflarda takas edilebilir.
+
+[CENTER_ALIGN; FONT_SIZE=13]Bir tasin sinifini yükseltmek için, ayni türden bir tas daha gereklidir.
+[CENTER_ALIGN; FONT_SIZE=13]Sinif yükseldikçe, tasin ek bonuslari da artar.
+[CENTER_ALIGN; FONT_SIZE=13]Bu ek bonuslar rastgele olacak sekilde 3 ila 5 arasinda degisebilir.
+[IMG=d:/ymir work/ui/game/wiki/emoji/class.tga; Y=1560; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Saflik Seviyesi
+[CENTER_ALIGN; FONT_SIZE=13]Mat, Seffaf, Temiz, Parlak, Isiltili, Mükemmel
+[CENTER_ALIGN; FONT_SIZE=13]Saflik seviyesi ne kadar yüksekse, tasin verdigi bonus da o kadar artar.
+[CENTER_ALIGN; FONT_SIZE=13]Saflik yükseltmek için (Mat * Seffaf * Temiz * Parlak * Mükemmel)
+[CENTER_ALIGN; FONT_SIZE=13]ayni saflik, renk ve sinifa sahip ejdertaslarinin mevcut olmasi gerekir.
+[CENTER_ALIGN; FONT_SIZE=13]Saflik arttikça, tasin sahip oldugu bonuslarin etkisi de güçlenir.
+[CENTER_ALIGN; FONT_SIZE=13]Eger islem basarisiz olursa, ayni saflik derecesine sahip tek bir ejdertasi elde edersiniz.
+[IMG=d:/ymir work/ui/game/wiki/emoji/clarity.tga; Y=1940; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]+0'dan +6'ya Seviye
+[CENTER_ALIGN; FONT_SIZE=13]Seviye ne kadar yüksekse, tasin bonuslari da o kadar artar.
+[CENTER_ALIGN; FONT_SIZE=13]Seviye yalnizca esya açiklamasinda gorülebilir.
+
+[CENTER_ALIGN; FONT_SIZE=13]Bu tür aritma islemi için "Ejderha Fasulyesi" adi verilen ek bir esya gereklidir.
+[ITEM=100300; IS_LINK=1; Y=2320; X=200]
+[ITEM=100400; IS_LINK=1; Y=2320; X=250]
+[ITEM=100500; IS_LINK=1; Y=2320; X=300]
+[CENTER_ALIGN; FONT_SIZE=13]Fasulyeyi ve bir ejderha tasini ilgili yuvalara yerlestirip "Arindir" dügmesine tiklayin.
+[CENTER_ALIGN; FONT_SIZE=13]Aritma islemi basarisiz olabilir; bu durumda tasin seviyesi düsebilir veya degismeden kalabilir.
+[IMG=d:/ymir work/ui/game/wiki/emoji/alchemy_level.tga; Y=2380; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]5. Süre Ozütü ve Ejderha Kerpeteni
+[CENTER_ALIGN; FONT_SIZE=13]Bir ejderha tasinin kullanim süresi bittiginde, tas KAYBOLMAZ.
+[CENTER_ALIGN; FONT_SIZE=13]Ancak devre disi kalir ve sahip oldugu bonuslar artik etkili olmaz.
+
+[CENTER_ALIGN; FONT_SIZE=13]Taslarin kullanim süresini uzatma islemi, baska bir ise yaramayan
+[CENTER_ALIGN; FONT_SIZE=13]bir ejderha tasinin süresini “Süre Ozütü” bu süreyi gelistirmek
+[CENTER_ALIGN; FONT_SIZE=13]istedigimiz ejderha tasina “aktar” mantigina dayanir.
+[CENTER_ALIGN; FONT_SIZE=13]Bu islem için asagidaki esyalar gereklidir:
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Sürenin Kerpeteni
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*( Simyacinin dükkaninda bulunabilir )
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Sürenin Kerpeteni'ni bir Ejderha Tasi üzerine sürüklediginizde, tas yok olur ve karsiliginda
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]   asagidaki süre ozütlerinden birini elde edersiniz:
+[ITEM=100200; IS_LINK=1; Y=2830; X=10]
+[ITEM=100000; IS_LINK=1; Y=2880; X=200]
+[ITEM=100001; IS_LINK=1; Y=2880; X=250]
+[ITEM=100002; IS_LINK=1; Y=2880; X=300]
+
+
+
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Ejderha Kerpeteni
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*( Simyacinin dükkaninda bulunabilir )
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Bu Kerpeteni takili bir simya tasinin üzerine sürükleyerek,
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]   çikarma islemini %100 güvenli hale getirir ve basarisiz olmasini onlersiniz.
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Dikkat! Bir Ejderha Tasini Kerpeteni kullanmadan çikartirsaniz yok olabilir.
+[ITEM=100100; IS_LINK=1; Y=2960; X=10]

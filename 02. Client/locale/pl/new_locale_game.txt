@@ -1,0 +1,158 @@
+AUTO_GUIDE_START	Uruchom poradnik
+AUTO_ITEM_ADI	Nazwa przedmiotu
+BERANSETAOU	Niebieski Smok
+CATACUMB	Katakumby Diab³a
+DEVILTOWER	Wie¿a Gumsan
+ENERGY_CRYSTAL	Kryszta³ energii
+FLAMEDUNGEON	Zamek Czerwonego Smoka
+HYDRADUNGEON	Obrona statku
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Legowisko Meley
+SNOWDUNGEON	Obserwatorium Nemere
+SPIDERBARONESA	Legowisko Baronowej Paj¹ków
+TASKBAR_SWITCHBOT	Switchbot
+TASKBAR_WIKI	Wiki
+TOOLTIP_SHORTCUT_MULTI_BUY	Kup wiele
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Wyszukaj w sklepie
+TOOLTIP_SHORTCUT_WIKI	Otwórz Wikipediê
+WIKI_AKZADUR	Loch Akzadur
+WIKI_ALCHEMY	System alchemii
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biolog
+WIKI_BONUS_10	Regeneracja P¯
+WIKI_BONUS_100	Moc ognia
+WIKI_BONUS_101	Moc lodu
+WIKI_BONUS_102	Moc wiatru
+WIKI_BONUS_103	Moc ziemi
+WIKI_BONUS_104	Moc ciemnoœci
+WIKI_BONUS_11	Regeneracja PM
+WIKI_BONUS_119	Si³a przeciw Kamieniom Metin
+WIKI_BONUS_12	Szansa na otrucie
+WIKI_BONUS_120	Si³a przeciw bossom
+WIKI_BONUS_121	Si³a w lochach
+WIKI_BONUS_123	Odpornoœæ na bossów
+WIKI_BONUS_13	Szansa na og³uszenie
+WIKI_BONUS_133	Si³a przeciw ¿ywio³akom
+WIKI_BONUS_136	Si³a przeszywaj¹cego ciosu
+WIKI_BONUS_14	Szansa na spowolnienie
+WIKI_BONUS_156	Obra¿enia ciosu krytycznego PvM
+WIKI_BONUS_23	Obra¿enia absorbowane jako P¯
+WIKI_BONUS_24	Obra¿enia absorbowane jako PM
+WIKI_BONUS_27	Szansa na zablokowanie ataków wrêcz
+WIKI_BONUS_28	Szansa na unik przed strza³ami
+WIKI_BONUS_39	Szansa na odbicie ciosów wrêcz
+WIKI_BONUS_43	Szansa na bonus PE
+WIKI_BONUS_44	Szansa na podwójny drop Yang
+WIKI_BONUS_53	Si³a ataku
+WIKI_BONUS_63	Si³a przeciw potworom
+WIKI_BONUS_69	Maks. HP
+WIKI_BONUS_72	Œrednie obra¿enia
+WIKI_BONUS_73	Odpornoœæ na obra¿enia umiejêtnoœci
+WIKI_BONUS_74	Odpornoœæ na œrednie obra¿enia
+WIKI_BONUS_8	Szybkoœæ ruchu
+WIKI_BONUS_99	Moc b³yskawic
+WIKI_BOOSTER	Wzmacniacze
+WIKI_BOSSES	Bossy
+WIKI_BOSS_TIER_DUNGEON	Boss Dungeonu
+WIKI_BOSS_TIER_LOW	S³abe Bossy
+WIKI_BOSS_TIER_MINI_DUNGEON	Mini Boss Dungeonu
+WIKI_CATEGORY_CRAFT	Crafting
+WIKI_CATEGORY_SHOP	Sklep
+WIKI_CHESTS	Skrzynie
+WIKI_CHESTS_BOSS	Skrzynie Bossów
+WIKI_CHESTS_DUNGEON	Skrzynie Dungenów
+WIKI_CHESTS_EVENT	Skrzynie wydarzeñ
+WIKI_CHESTS_OTHER	Inne skrzynie
+WIKI_CONTENT_INFO	Zawartoœæ skrzyni %s
+WIKI_COSTUME	Kostiumy
+WIKI_COSTUMES	Kostiumy
+WIKI_COSTUME_TAB_ARMOR	Zbroja
+WIKI_COSTUME_TAB_HAIR	Fryzury
+WIKI_COSTUME_TAB_PETS	Zwierzêta
+WIKI_COSTUME_TAB_SASH	Szarfa
+WIKI_COSTUME_TAB_SHINING	Œwiecenie
+WIKI_COSTUME_TAB_WEAPON	Broñ
+WIKI_CRAFT_INCREASE	Zwiêksz
+WIKI_CRAFT_MATERIALS	Materia³y
+WIKI_CRAFT_RESULT	Wynik
+WIKI_DROPLIST_INFO	Drop z %s
+WIKI_ENERGY_CRYSTAL	Kryszta³ energii
+WIKI_ENIGMA_ITEMS	Przedmioty Enigmy
+WIKI_EQUIPMENT	Ekwipunek
+WIKI_EQUIPMENT_ARMOR	Zbroja
+WIKI_EQUIPMENT_BELT	Paski
+WIKI_EQUIPMENT_BRACELET	Bransolety
+WIKI_EQUIPMENT_EARRING	Kolczyki
+WIKI_EQUIPMENT_HELMET	He³my
+WIKI_EQUIPMENT_NECKLACE	Naszyjniki
+WIKI_EQUIPMENT_SHIELD	Tarcze
+WIKI_EQUIPMENT_SHOES	Buty
+WIKI_EQUIPMENT_WEAPONS	Broñ
+WIKI_EVENTS	Wydarzenia
+WIKI_FAQ2	FAQ
+WIKI_FISHING_MINING	£owienie/Górnictwo
+WIKI_GAME_RULES	Regulamin gry
+WIKI_GUIDES2	Informacje Anka2
+WIKI_HOME	Strona g³ówna
+WIKI_INFO_NO_RACE	Nic
+WIKI_INFO_RACE_ANIMAL	Zwierzê
+WIKI_INFO_RACE_DARK	Ciemnoœæ
+WIKI_INFO_RACE_DEVIL	Diabe³
+WIKI_INFO_RACE_EARTH	Ziemia
+WIKI_INFO_RACE_ELEC	B³yskawica
+WIKI_INFO_RACE_FIRE	Ogieñ
+WIKI_INFO_RACE_HUMAN	Ludzie
+WIKI_INFO_RACE_ICE	Lód
+WIKI_INFO_RACE_METIN	Metin
+WIKI_INFO_RACE_MILGYO	Mistyk
+WIKI_INFO_RACE_ORC	Ork
+WIKI_INFO_RACE_UNDEAD	Zombie
+WIKI_INFO_RACE_WIND	Wiatr
+WIKI_INFO_RACE_ZODIAC	Zodiak
+WIKI_INFO_RESIST_BELL	Dzwonek
+WIKI_INFO_RESIST_BOW	£uk
+WIKI_INFO_RESIST_DAGGER	Ostrze
+WIKI_INFO_RESIST_FAN	Wachlarz
+WIKI_INFO_RESIST_MAGIC	Magia
+WIKI_INFO_RESIST_SWORD	Miecz
+WIKI_INFO_RESIST_TWOHAND	Dwurêczne
+WIKI_ITEM_NAME	Nazwa przedmiotu
+WIKI_ITEM_SNAKE_TAIL	Ogon Wê¿a
+WIKI_ITEM_SPIDER_LEGS	Pajêcze Odnó¿a
+WIKI_LEVEL_MOB_TEXT	Poziom %d
+WIKI_LEVEL_TEXT	Poziom %d - zawêŸ zakres %d~%d
+WIKI_LEVEL_TEXT2	Poziom %d~%d - zawêŸ zakres %d~%d
+WIKI_METINSTONE	Kamienie Metin
+WIKI_METIN_TIER_DUNGEON	Metin Dungeonu
+WIKI_METIN_TIER_RARE	Rzadkie i Legendarne Metiny
+WIKI_MOB_NAME	Nazwa istoty
+WIKI_MONSTER	Potwory
+WIKI_MOUNT_ENERGY	energia
+WIKI_MOUNT_ITEM	Wierzchowce
+WIKI_MOUNT_RUNES	Runy
+WIKI_NO_DATA	-
+WIKI_ORIGIN	Lokalizacja
+WIKI_PETS	Zwierzaki
+WIKI_PET_EVOLUTION	Ewolucja
+WIKI_SHOP_PRICE	Cena
+WIKI_SHRINES	Œwi¹tynie
+WIKI_STATICS_INFO_DEFENSES	|cFFc79e65Odpornoœci:|h|r
+WIKI_STATICS_INFO_DMG	Min. obr.:%d | Maks. obr.:%d | Maks. P¯: %d
+WIKI_STATICS_INFO_TYPE	Rodzaj: %s | Podrodzaj: %s
+WIKI_STATICS_INFO_YNG	Min. Yang:%d | Maks. Yang:%d | PE: %d
+WIKI_STONES_ALSO_AVAILABLE	Dostêpne równie¿:
+WIKI_SYSTEM2	Podstawowe systemy
+WIKI_TALISMAN	Talizmany
+WIKI_TEMNITE	Lochy
+WIKI_THESTART2	Pocz¹tek
+WIKI_TIER_1	Poziom I
+WIKI_TIER_2	Poziom II
+WIKI_TIER_3	Poziom III
+WIKI_TIER_4	Poziom IV
+WIKI_TIER_5	Tier V
+WIKI_TITLE	Wikipedia
+WIKI_UNKOWN_ITEM	Nieznany przedmiot: %d
+WIKI_UNKOWN_MOB	Nieznana istota: %d
+WIKI_UPGRADE_COSTS	Ewolucja
+WIKI_YANG_COSTS	Koszt (yang)
+WIKI_ZODIAC	Œwi¹tynia Zodiaku

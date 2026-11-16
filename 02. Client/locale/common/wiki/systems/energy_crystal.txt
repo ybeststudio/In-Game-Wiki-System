@@ -1,0 +1,210 @@
+[\
+    TITLE;\
+    X=10;\
+    Y=66;\
+    TEXT_1={WK:1348};\
+]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=116;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51040;\
+    TEXT_1={WK:1349};\
+    Y_PADDING=10;\
+]
+
+[\
+    TITLE;\
+    X=10;\
+    Y=203;\
+    ANCHOR=energy_crystal_overview;\
+    TEXT_1={WK:1350};\
+]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=253; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=84]
+[TD; TEXT={WK:787}; ALIGN=center]
+[TABLE_END]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=362;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51037;\
+    TEXT_1={WK:1351};\
+    Y_PADDING=10;\
+]
+
+[\
+    TITLE;\
+    X=10;\
+    Y=464;\
+    ANCHOR=energy_crystal_unlocks;\
+    TEXT_1={WK:1352};\
+]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=514; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=83]
+[TD; TEXT={WK:788}; ALIGN=center]
+[TABLE_END]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=622;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51033;\
+    TEXT_1={WK:1353};\
+    Y_PADDING=10;\
+]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=692;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51032;\
+    TEXT_1={WK:1354};\
+    Y_PADDING=10;\
+]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=762;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51034;\
+    TEXT_1={WK:1355};\
+    Y_PADDING=10;\
+]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=832;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51031;\
+    TEXT_1={WK:1356};\
+    Y_PADDING=10;\
+]
+
+[\
+    TITLE;\
+    X=10;\
+    Y=912;\
+    ANCHOR=energy_crystal_refining;\
+    TEXT_1={WK:1357};\
+]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=962; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=110]
+[TD; TEXT={WK:789}; ALIGN=center]
+[TABLE_END]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=26; TABLE_HIDE_TITLE=0; X=10; Y=1097; TABLE_HEADERS={WK:1358}|+0|+1|+2|+3|+4|+5|+6|+7|+8|+9; TABLE_WIDTHS=120|40|40|40|40|40|40|40|40|40|40]
+[TR; H=60]
+[TD; TEXT={WK:1359}; ALIGN=center]
+[TD; TEXT=5%; ALIGN=center]
+[TD; TEXT=10%; ALIGN=center]
+[TD; TEXT=15%; ALIGN=center]
+[TD; TEXT=20%; ALIGN=center]
+[TD; TEXT=25%; ALIGN=center]
+[TD; TEXT=30%; ALIGN=center]
+[TD; TEXT=35%; ALIGN=center]
+[TD; TEXT=40%; ALIGN=center]
+[TD; TEXT=45%; ALIGN=center]
+[TD; TEXT=50%; ALIGN=center]
+[TABLE_END]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=1208;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51050;\
+    TEXT_1={WK:1360};\
+    Y_PADDING=10;\
+]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=1295;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51051;\
+    TEXT_1={WK:1361};\
+    Y_PADDING=10;\
+]
+
+[\
+    SUBTITLE;\
+    X=10;\
+    Y=1372;\
+    TEXT_1={WK:1362};\
+]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=1422;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51038;\
+    TEXT_1={WK:1363};\
+    Y_PADDING=3;\
+]
+
+[\
+    DESCRIPTION_WITH_ITEM;\
+    X=10;\
+    Y=1487;\
+    IMG_1=d:/ymir work/ui/game/wiki/guides/1.png;\
+    VNUM_1=51039;\
+    TEXT_1={WK:1364};\
+    Y_PADDING=13;\
+]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=1567; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=83]
+[TD; TEXT={WK:792}; ALIGN=center]
+[TABLE_END]
+
+[\
+    TITLE;\
+    X=10;\
+    Y=1685;\
+    ANCHOR=energy_crystal_calculation;\
+    TEXT_1={WK:1365};\
+]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=1735; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=67]
+[TD; TEXT={WK:793}; ALIGN=center]
+[TABLE_END]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=26; TABLE_HIDE_TITLE=0; X=10; Y=1827; TABLE_HEADERS={WK:1366}|{WK:1367}; TABLE_WIDTHS=260|260]
+[TR; H=60]
+[TD; TEXT={WK:1368}; ALIGN=center]
+[TD; TEXT=30%; ALIGN=center]
+[TR; H=60]
+[TD; TEXT={WK:1369}; ALIGN=center]
+[TD; TEXT=25%; ALIGN=center]
+[TR; H=60]
+[TD; TEXT={WK:1370}; ALIGN=center]
+[TD; TEXT=30 x 25 / 100 = 7.5%/8%; ALIGN=center]
+[TR; H=60]
+[TD; TEXT={WK:1371}; ALIGN=center]
+[TD; TEXT=38%; ALIGN=center]
+[TABLE_END]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=2097; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=67]
+[TD; TEXT={WK:794}; ALIGN=center]
+[TABLE_END]
+
+[TABLE_START; TABLE_MAX_WIDTH=520; TABLE_HEAD_HEIGHT=0; TABLE_HIDE_TITLE=1; X=10; Y=2174; TABLE_HEADERS={WK:877}; TABLE_WIDTHS=520]
+[TR; H=72]
+[TD; TEXT={WK:795}; ALIGN=center]
+[TABLE_END]

@@ -1,0 +1,5 @@
+<!-- UserInterface.vcxproj icine ekle: -->
+<ItemGroup>
+  <ClCompile Include="..\..\source\UserInterface\PythonWiki.cpp" />
+  <ClInclude Include="..\..\source\UserInterface\PythonWiki.h" />
+</ItemGroup>

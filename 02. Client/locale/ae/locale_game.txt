@@ -1,0 +1,2 @@
+RECEIVE_MESSAGE	%s √—”· ·ﬂ —”«·….
+UI_DEF_FONT	Tahoma:16

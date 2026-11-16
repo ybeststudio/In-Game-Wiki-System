@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/drops.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Temel DA¼AYA¼rme Rehberi
+
+[COLOR=0xffd700;FONT_SIZE=18]Index:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Genel DA¼AYA¼rme Bilgisi
+[X_PADDING=5;FONT_SIZE=14]* 2. DA¼AYA¼rme A–zellikleri
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel DA¼AYA¼rme Bilgisi
+
+[CENTER_ALIGN;FONT_SIZE=14]Anka2. dA¼nyasA±nda, maceranA±zda derinlere indikA§e yaratA±klarA±n
+[CENTER_ALIGN;FONT_SIZE=14]A¼zerinizde dA¼AYA¼receAYi A§ok sayA±da ekipman parA§asA± bulunmaktadA±r.
+[CENTER_ALIGN;FONT_SIZE=14]Bu eAYyalar, karakterinizi geliAYtirmek iA§in ihtiyaA§ duyacaAYA±nA±z silahlar,
+[CENTER_ALIGN;FONT_SIZE=14]zA±rhlar ve aksesuarlar olacaktA±r.
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/drop1.tga; Y=310; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=440; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. DA¼AYA¼rme A–zellikleri
+
+[X_PADDING=15;FONT_SIZE=14]* AlacaAYA±nA±z eAYyalar her zaman karakterinizin seviyesine yakA±n olacaktA±r.
+[X_PADDING=15;FONT_SIZE=14]* Bir yaratA±AYA±n size eAYya dA¼AYA¼rmesi iA§in sizden 10 seviye dA¼AYA¼k veya yA¼ksek olmasA± gerekmez.
+[X_PADDING=15;FONT_SIZE=14]* YukarA±daki kurallara baAYlA± olarak herhangi bir yaratA±k herhangi bir nesneyi dA¼AYA¼rebilir.
+[X_PADDING=15;FONT_SIZE=14]* Bu sistemden elde edilen eAYyalar, seviye 1 ile 65 arasA±ndaki ekipman parA§alarA±dA±r.
+[X_PADDING=15;FONT_SIZE=14]* 65 seviyesinden yA¼ksek ekipman parA§alarA± yalnA±zca Bosslardan elde edilir.
+
+

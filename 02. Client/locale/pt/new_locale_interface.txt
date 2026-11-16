@@ -1,0 +1,2 @@
+TASKBAR_SWITCHBOT	Bot de Encantamento
+TASKBAR_WIKI	Wiki

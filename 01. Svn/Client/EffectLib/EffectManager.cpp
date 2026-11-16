@@ -1,0 +1,21 @@
+// Ara:
+{
+	Destroy();
+}
+
+// Altina ekle:
+#ifdef ENABLE_WIKI_SYSTEM
+void CEffectManager::RenderOneWiki(DWORD id)
+{
+	STATEMANAGER.SetTexture(0, NULL);
+	STATEMANAGER.SetTexture(1, NULL);
+	const auto& pEffectInstance = m_kEftInstMap.find(id);
+	if (pEffectInstance != m_kEftInstMap.end())
+	{
+		pEffectInstance->second->SetWikiIgnoreFrustum(true);
+		pEffectInstance->second->Show();
+		pEffectInstance->second->Render();
+	}
+}
+#endif
+

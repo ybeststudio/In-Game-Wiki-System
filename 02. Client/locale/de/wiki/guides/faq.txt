@@ -1,0 +1,44 @@
+[BANNER_IMG = d:/ymir work/ui/game/wiki/Basic.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15;anchor = start_list]Içerik Listesi:
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?general_know|h1. Genel Bilgiler|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?bonuses|h2. Bonuslar|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_alchemy|h3. Simya|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_buffi|h4. Buffi|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_crafting|h5. Düsüs / Ekipman Üretimi|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_lostitems|h6. Kayip Esyalar / Yang|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_dungeon|h7. Zindan Sorunlari|h|Elink_blue|e
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=20;COLOR=0xffd700;anchor=general_know]|Hwiki:anchor:guides/faq.txt?start_list|h1. Genel Bilgiler |h|Elink_yellow|e
+
+[COLOR=0xAFE996]S: P becerisini yapmak için kaç kitap gerekir?
+C: P becerisi için 55 kitap gerekir.
+
+[COLOR=0xAFE996]S: Sunucudaki maksimum seviye nedir?
+C: Ulasabileceginiz maksimum seviye 120'dir.
+
+[COLOR=0xAFE996]S: 40. seviyede Seytan Kulesi'ni tamamlayabilir miyim?
+C: Hayir. Son katlara gidebilmek için en az 75. seviye olmaniz gerekir.
+
+[COLOR=0xAFE996]S: 75 seviye silahlar nereden düser?
+C: Seytan Kulesi'nden ve Sürgün Magarasi 2 (Final) – Buz Cadisi'ndan düser.
+
+[COLOR=0xAFE996]S: Seytan Kulesi için hangi bonuslar gerekli?
+C: Esyanizda Ölümsüzlere Karsi Güçlü bulunmalidir.
+
+[COLOR=0xAFE996]S: Örümcek Kraliçe için hangi bonuslar gerekli?
+C: Zehir Direnci ve Hayvanlara Karsi Güçlü gerekir. 
+
+[COLOR=0xAFE996]S: Azrael için hangi bonuslar gerekli?
+C: Vampirlere Karsi Güçlü gerekir.
+
+[COLOR=0xAFE996]S: Beran-Setaou için hangi bonuslar gerekli?
+C: Seytanlara Karsi Güçlü gerekir.
+
+[COLOR=0xAFE996]S: Razador için hangi bonuslar gerekli?
+C: Esyanizda Ates Direnci bulunmalidir.
+
+[COLOR=0xAFE996]S: Jotun için hangi bonuslar gerekli?
+C: Orklara Karsi Güçlü gerekir.
+

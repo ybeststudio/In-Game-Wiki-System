@@ -1,0 +1,109 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/rules.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Oyun Kurallarý
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]1. Satýþ / Alým / Takas
+
+[FONT_SIZE=14]1. Gerçek para ($, £, €, Paysafe, PayPal, Bitcoin vb.) karþýlýðýnda sanal eþyalarýn satýþý, alýmý 
+[FONT_SIZE=14]    veya diðer sunuculardaki/oyunlardaki eþyalarla takasý yasaktýr.
+[FONT_SIZE=14]2. Ayrýca bir hesabýn yang karþýlýðýnda satýlmasý da yasaktýr.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]2. Küfür, Hakaret ve Toksik Davranýþ
+
+[FONT_SIZE=14]1. Küfür, yalan yayma, nefret söylemi, isyan, ýrkçýlýk veya sözlü taciz yasaktýr 
+[FONT_SIZE=14]    ve duruma göre cezalandýrýlýr.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]3. Özel / Gerçek Hayat Bilgileri
+
+[FONT_SIZE=14]1. Takým üyelerinin veya oyuncularýn özel / gerçek hayat bilgilerini ifþa etmek kesinlikle yasaktýr.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]4. Hatalar ve Sistem Açýklarýndan Yararlanma
+
+[FONT_SIZE=14]1. Karþýlaþýlan bir hata, ekibe özel mesaj yoluyla derhal bildirilmelidir.
+[FONT_SIZE=14]    Oyunun iþleyiþini etkileyen her türlü hata kullanýmý veya istismarý cezalandýrýlýr.
+[FONT_SIZE=14]    Avantaj elde etmek amacýyla sistemlerin atlatýlmasý da cezalandýrýlacaktýr.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]5. Üçüncü Parti Yazýlýmlar
+
+[FONT_SIZE=14]1. Üçüncü parti yazýlýmlar (Hileler, Botlar, Yasadýþý Programlar) 
+[FONT_SIZE=14]    sunucumuza ait olmayan dosya veya yazýlýmlardýr. Bu tür yazýlýmlardan faydalanmak 
+[FONT_SIZE=14]    veya kullanmak cezalandýrýlýr. Tüm oyuncular adil þekilde oynamalýdýr.
+[FONT_SIZE=14]2. Makrolar, oyuncunun aktif olarak bilgisayar baþýnda olan diðer oyunculara karþý 
+[FONT_SIZE=14]    haksýz avantaj saðlamadýðý sürece kullanýlabilir.
+[FONT_SIZE=14]    (Ekibimiz, tolere edilemeyen þekilde makro kullanan
+[FONT_SIZE=14]    oyuncularý cezalandýrma hakkýný saklý tutar.)
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]6. Üçüncü Parti Reklamlarý
+
+[FONT_SIZE=14]1. Baþka sunucularýn herhangi bir þekilde reklamýný yapmak yasaktýr ve cezalandýrýlýr.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]7. Hesap Güvenliði
+
+[FONT_SIZE=14]1. Her oyuncu kendi hesabý ve oyun içi eþyalarýndan sorumludur.
+[FONT_SIZE=14]    Bu nedenle, bir oyuncu arkadaþýna veya ortaðýna güvendiði için bir eþya kaybederse, 
+[FONT_SIZE=14]    ekip bu konuda yardýmcý olmayý garanti edemez.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]8. Oyuncu Þikayetleri
+
+[FONT_SIZE=14]1. Bir oyuncuyu ekran görüntüsü veya video ile þikayet etmek istiyorsanýz, 
+[FONT_SIZE=14]    sunucu adý ve sunucu saati her zaman görünür olmalýdýr.
+[FONT_SIZE=14]    Aksi takdirde, bu kanýt olarak kabul edilmez.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]9. Yetkili Talimatlarý
+
+[FONT_SIZE=14]1. Yetkili ekip üyelerinin talimatlarýna uyulmalýdýr. 
+[FONT_SIZE=14]    Talimatlara uymamak cezaya neden olabilir.
+[FONT_SIZE=14]    Ayrýca her ekip üyesi ve oyuncuya saygýlý davranýlmalýdýr.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]10. Yayýncý Ortaklarý
+
+[FONT_SIZE=14]1. Yayýncý ortaklarýnýn canlý yayýnlarýný kasýtlý olarak olumsuz etkilemek 
+[FONT_SIZE=14]    ve sunucuyu tanýtmalarýný engellemek yasaktýr.
+[FONT_SIZE=14]2. Bu kural, yayýncýlarýn tamamen özgür olduðu veya öldürülmeye karþý 
+[FONT_SIZE=14]    koruma altýnda olduklarý anlamýna gelmez.
+[FONT_SIZE=14]3. Bu kural yalnýzca oyuncunun yayýncýyý özellikle takip ettiði 
+[FONT_SIZE=14]    ve sunucuyu tanýtmasýný engellediði açýkça kanýtlandýðýnda geçerlidir.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]11. Uygunsuz Kullanýcý Ýsimleri
+
+[FONT_SIZE=14]1. Uygunsuz karakter adlarý, binek ve evcil hayvan isimleri, dükkân veya lonca isimleri yasaktýr!
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]12. VPN / Proxy Kullanýmý
+
+[FONT_SIZE=14]1. VPN veya proxy kullanarak diðer oyunculara karþý avantaj elde etmek yasaktýr!
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]13. Kural Deðiþikliði Hakký
+
+[FONT_SIZE=14]1. Ekip, kurallarý önceden duyurmadan deðiþtirme veya geniþletme hakkýný saklý tutar.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=16;COLOR=58ADFF]14. Çoklu Farm Engeli
+
+[FONT_SIZE=14]1. Sanal makineler veya ikinci bilgisayar kullanarak çoklu farm engelini aþmak yasaktýr.

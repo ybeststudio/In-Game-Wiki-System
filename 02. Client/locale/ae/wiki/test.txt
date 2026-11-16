@@ -1,0 +1,169 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/category/bio_wall.tga]
+[CENTER_ALIGN]Sevgili Aeldra oyuncularA±,
+[CENTER_ALIGN]Bu rehberi okuyorsanA±z, bA¼yA¼k ihtimalle Aeldra maceralarA±nda bir yerlerde kayboldunuz.
+[CENTER_ALIGN]Bundan sonra bu rehber size yol gA¶sterecek...
+
+[LINK=ITEM;LINKINDEX=149;LINKTEXT=Battle Sword;Y=50;FONT_SIZE=20;COLOR=0xffd700; CENTER_ALIGN]
+[LINK=MOB;LINKINDEX=1093;LINKTEXT=Death Reaper;Y=100;FONT_SIZE=20;COLOR=0xffd700; CENTER_ALIGN]
+[LINK=ARTICLE;LINKINDEX=0;LINKPOS=0.73;LINKTEXT=BioArticle;Y=150;FONT_SIZE=20;COLOR=0xffd700; CENTER_ALIGN]
+
+
+[RENDERTARGET=1093;WIDTH=250;HEIGHT=250;Y=300;CENTER_ALIGN]
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15]A°A§erik Listesi:
+*1. 105. Seviye SonrasA± Maceralar ve AAYacA±n SavaAY Bileti
+*2. Bu kostA¼mler neyin nesi?
+*3. KA±sa Zindan AA§A±klamalarA±
+*4. Turmalin EkipmanlarA±
+*5. A?u maymunlarA± nasA±l yeneceAYim?
+*6. A?imdi sunucuyu bitirdim mi?
+
+[IMG=d:/ymir work/ui/game/wiki/character/0_0.tga; Y=200; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. 105. Seviye SonrasA± Maceralar ve AAYacA±n SavaAY Bileti
+
+Bu noktada, artA±k maksimum seviyeye yaklaAYmA±AY bir oyuncu olarak â€œorta-A¼st dA¼zeyâ€? bir konumdasA±nA±z.  
+Ancak fark etmiAYsinizdir ki iAYler biraz daha zorlaAYmaya baAYladA±...
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 BA¼yA¼lA¼ Orman & KaranlA±k Orman
+
+ArtA±k yeni haritalarA±nA±za, yani BA¼yA¼lA¼ Orman ve KaranlA±k Ormanâ€™a A±AYA±nlanabilirsiniz.  
+Bu haritalar keAYfedeceAYiniz birA§ok kA¼A§A¼k hazineyle doludur. A–ncelikle ekipmanA±nA±zA± ayarlamanA±z gerekecek,  
+A§A¼nkA¼ daha A¶nce de belirtildiAYi gibi: iAYler zorlaAYA±yor.  
+Buradaki yaratA±klarA±n aktif bir A±rk bonusu yoktur, ancak â€œToprakâ€? etiketine sahiptirler,  
+bu da +49 Toprak TA±lsA±mA± bulundurmanA±n faydalA± olacaAYA± anlamA±na gelir.  
+AyrA±ca, bu yaratA±klarA±n hasarA± 90. seviye haritalara gA¶re oldukA§a yA¼ksektir; bu yA¼zden  
+â€ Engelleme A?ansA±â€™, â€ Maks. HPâ€™ ve â€ HP Emilimiâ€™ bonuslarA±nA± maksimuma A§A±karmak iAYinizi kolaylaAYtA±racaktA±r.  
+Efsanevi Ejderha Onyx ve Jade taAYlarA± (muhtemelen elinizde zaten +6 Yakut vardA±r)  
+ve zA±rhA±nA±za yerleAYtirilmiAY +5 KaA§A±nma ve Savunma taAYlarA±yla  
+AAYaA§ VarlA±klarA±nA±n Metinlerini farm yaparken hayatta kalmanA±z garanti olur.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 GA¶rev KitabA± (Kraliyet)
+
+ArtA±k GA¶rev KitabA± (Kraliyet) dA¼AYA¼rmeye baAYlayacaksA±nA±z.  
+Bu kitap, her biri tamamlandA±AYA±nda A¶dA¼l veren bir dizi gA¶rev iA§erir.  
+GA¶revlerin A§oAYu zindanlarla ilgilidir, bu yA¼zden kendinize gA¼veniyorsanA±z etkinleAYtirin.  
+EAYer uAYraAYmak istemiyorsanA±z, satmak da bir seA§enektir.  
+UnutmayA±n, A¶dA¼ller oldukA§a caziptir (Efsanevi Ruh TaAYlarA±, AAYA±r Boss Rollâ€™lar vb.)
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 AAYacA±n SavaAY Bileti
+
+SavaAY Biletini daha A¶nce, seviye 1â€™deyken hatA±rlarsA±nA±z.  
+A?imdi yeniden karAYA±nA±zda, ancak bu sefer biraz yenilenmiAY AYekilde.  
+Toplamda 7 normal gA¶rev ve 3 efsanevi gA¶rev iA§erir.  
+A–dA¼ller seviyenize ve ihtiyaA§larA±nA±za gA¶re ayarlanmA±AYtA±r,  
+bu nedenle mA¼mkA¼n olan en kA±sa sA¼rede bunlar A¼zerinde A§alA±AYmaya baAYlayA±n.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=580; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Bu kostA¼mler neyin nesi?
+
+A?imdiye kadar muhtemelen o 3x10% baAYlangA±A§ kostA¼mlerini yeniliyordunuz  
+ya da 3x15% bonuslu kostA¼mler elde etmeyi baAYardA±nA±z.  
+Ancak iAYiniz bitmedi.  
+Zaman zaman dA¼zenlenen A–zel Etkinliklerde genellikle silahA±nA±z veya saA§ modeliniz iA§in  
+%20 bonus saAYlayan A¶zel kostA¼mler bulunur.  
+ArtA±k bu kostA¼mleri aramaya baAYlamalA±sA±nA±z...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=680; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. KA±sa Zindan AA§A±klamalarA±
+
+ArtA±k Jotun Thrym ve Gemi SavunmasA± gibi A¼st seviye zindanlarA±n kapA±larA±nA±,  
+A¶nceden aA§A±lmA±AY olan Nemere ve Razador (95. Seviye) ile birlikte aA§tA±nA±z.  
+GA¶rA¼nA¼AYe gA¶re tA¼m zindanlara girmek iA§in anahtar gerekiyor...  
+Ama endiAYelenmeyin, durum gA¶rA¼ndA¼AYA¼ kadar dramatik deAYil.  
+
+Bir GeA§iAY Bileti [veya Boss OdasA± Bileti (Nemere)] aldA±AYA±nA±zda  
+Gemi SavunmasA± zindanA±na da eriAYim saAYlarsA±nA±z  
+(A§A¼nkA¼ Nemere %100 Mavi Kristal A–zA¼tA¼ dA¼AYA¼rA¼r).  
+AynA± mantA±kla, Razador %100 KA±zA±l Cehennem Kristali dA¼AYA¼rA¼r;  
+bu taAY, Kristal Ejderha MaAYarasA±na giriAYte kullanA±lA±r.  
+
+Yani temelde zindanlarA± birbirine baAYlayarak ilerlersiniz  
+ve bu sayede oldukA§a iyi bir kazanA§ elde edersiniz.  
+
+UnutmayA±n: Kristal Ejderha MaAYarasA± ve Jotun Thrym,  
+tamamen hasar tabanlA± zindanlardA±r ve maksimum bonuslara sahip olmanA±z gerekir.  
+Daha fazla bilgi iA§in forumumuzu takip etmeyi unutmayA±n...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Turmalin EkipmanlarA±
+
+ArtA±k dA¼AYA¼k seviyeli Ruh Kristali eAYyalarA±ndan kurtulmanA±n zamanA± gelmedi mi?  
+Evet, kesinlikle geldi.  
+Turmalin KA¼peleri ve Kolyesi, yaratA±klara ve metin taAYlarA±na karAYA± %15 gA¼A§ bonusu saAYlar;  
+bu da hasarA±nA±zA± gA¶zle gA¶rA¼lA¼r AYekilde artA±rA±r.  
+Turmalin BilekliAYi ise yaratA±klara ve bosslara karAYA± %15 gA¼A§ kazandA±rA±r,  
+bA¶ylece A¼st dA¼zey zindanlarA± tek baAYA±nA±za yapabilecek seviyeye gelirsiniz.  
+
+Genel olarak, Turmalin ekipmanlarA±; AteAY AyakkabA±sA±, Ejderha Kristal KuAYaAYA±,  
+Ejderha TanrA±sA± KalkanA± ve Deniz YA±lanA± MiAYferi ile birlikte  
+Badawahdan (Ejderha Burnu KA¶yA¼)â€™nda A¼retilir.  
+Oraya da bir gA¶z atmayA± unutmayA±n.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=970; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. A?u maymunlarA± nasA±l yeneceAYim?
+
+YakA±nda 110. seviye haritasA± olan Wukong TapA±naAYA±â€™nA± da aA§acaksA±nA±z  
+ve bu harita farm tarzA±nA±zA± tamamen deAYiAYtirecek.  
+TA¼m Ejderha TaAYA± SimyalarA±nA± +6 seviyesine A§A±karmak (ek bonuslar iA§in),  
+RA¼zgar TA±lsA±mA± +99 elde etmek, KuAYak KostA¼mA¼ takmak  
+ve hasarA±nA±zA± maksimuma A§A±karmak artA±k ciddi bir gereklilik haline gelecek.  
+
+Bu haritada; Tedarik SandA±AYA±, RA¼ya ve GA¶kyA¼zA¼ RuhlarA±,  
+A–zel yetenekleriniz iA§in Beceri SandA±klarA± ve A¼st dA¼zey ekipmanlarA±nA±zA± geliAYtirmede  
+kullanA±lan malzemeleri bol miktarda farm yapmaya baAYlarsA±nA±z.  
+Bu eAYyalarA± ister satarak ister kendi ekipmanA±nA±zda kullanarak  
+A¶nceden bahsedilen yA¼ksek seviye eAYyalar iA§in ciddi kazanA§ saAYlayabilirsiniz.  
+
+AyrA±ca artA±k Zodyak TapA±naAYA± ve Thranduilâ€™de neler olduAYunu da  
+merak etmeye baAYlamA±AY olmalA±sA±nA±z, deAYil mi...?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. A?imdi sunucuyu bitirdim mi?
+
+Maksimum seviyeye ulaAYmak, oyundaki tA¼m yA¶nleri tamamladA±AYA±nA±z anlamA±na gelmez.  
+Bunu siz de A§ok iyi biliyorsunuz.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.1 Zodyak TapA±naAYA±
+
+En zorlu maceralarA±n bazA±larA± burada, Zodyak TapA±naAYA±â€™nda gerA§ekleAYecek.  
+ArtA±k sosyalleAYme zamanA±; bu sA¼reA§te size yardA±mcA± olacak bir ekip veya lonca kurmanA±z gerekiyor.  
+Bu devasa oyun alanA±nda sayA±sA±z yeni A¶zellik, zindan katA± ve A¶dA¼l bulunuyor  
+ve tek baAYA±nA±za ilerlemek hiA§ kolay olmayacak.  
+
+EkipmanlarA±nA±zA± maksimuma A§A±karmak, tA¼m tA±lsA±mlarA±nA±zA± +99 seviyesine yA¼kseltmek  
+ve gA¼A§lA¼ bir takA±m oluAYturmak sizi 40. kata kadar taAYA±yabilir...  
+
+A–zetle, yakA±nda sevdiAYiniz 75. seviye silahA±nA±zla vedalaAYacak  
+ve Zodyak silahA±nA±zA± geliAYtirmeye baAYlayacaksA±nA±z.  
+AynA± AYey zA±rhA±nA±z iA§in de geA§erli.  
+12 Zodyak TanrA±sA± ile mA¼cadele etmek A¶yle sA±radan bir iAY deAYildir;  
+detaylA± bilgi iA§in forumumuzu ziyaret etmeyi unutmayA±n.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.2 Thranduilâ€™in A°ni
+
+Bu zindan yeni bosslar, aAYamalar ve birA§ok farklA± mekanik iA§eriyor.  
+Bu inin derinliklerinde yeni stratejiler A¶AYrenecek  
+ve belki de Kyanit ekipmanlarA±yla karAYA±laAYacaksA±nA±z.  
+Kim bilir...
+
+
+

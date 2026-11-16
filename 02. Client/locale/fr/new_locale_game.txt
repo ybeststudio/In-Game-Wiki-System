@@ -1,0 +1,158 @@
+AUTO_GUIDE_START	Démarrer le guide
+AUTO_ITEM_ADI	Nom de l'objet
+BERANSETAOU	Dragon bleu
+CATACUMB	Catacombes du Démon
+DEVILTOWER	Tour de Gumsan
+ENERGY_CRYSTAL	Cristal d’énergie
+FLAMEDUNGEON	Forteresse du Dragon rouge
+HYDRADUNGEON	Défense du navire
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Antre de Meley
+SNOWDUNGEON	Observatoire de Nemere
+SPIDERBARONESA	Repaire de la Baronne Araignée
+TASKBAR_SWITCHBOT	Bot d'enchantement
+TASKBAR_WIKI	Wiki
+TOOLTIP_SHORTCUT_MULTI_BUY	Achat multiple
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Chercher dans la boutique
+TOOLTIP_SHORTCUT_WIKI	Ouvrir Wikipedia
+WIKI_AKZADUR	Donjon d'Akzadur
+WIKI_ALCHEMY	Système d'alchimie
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biologiste
+WIKI_BONUS_10	Régénération PV
+WIKI_BONUS_100	Puissance du feu
+WIKI_BONUS_101	Puissance de la glace
+WIKI_BONUS_102	Puissance du vent
+WIKI_BONUS_103	Puissance de la terre
+WIKI_BONUS_104	Puissance des ténèbres
+WIKI_BONUS_11	Régénération PM
+WIKI_BONUS_119	Force contre les Pierres Metin
+WIKI_BONUS_12	Chance d'empoisonner
+WIKI_BONUS_120	Force contre les boss
+WIKI_BONUS_121	Force dans les donjons
+WIKI_BONUS_123	Résistance aux boss
+WIKI_BONUS_13	Chance d'étourdir
+WIKI_BONUS_133	Force contre les éléments
+WIKI_BONUS_136	Puissance des coups perçants
+WIKI_BONUS_14	Chance de ralentir
+WIKI_BONUS_156	Dégâts critiques PvM
+WIKI_BONUS_23	Les dégâts sont absorbés en PV
+WIKI_BONUS_24	Les dégâts sont absorbés en PM
+WIKI_BONUS_27	Chance de blocage des attaques au corps à corps
+WIKI_BONUS_28	Chance d'éviter les flèches
+WIKI_BONUS_39	Chance de réfléchir les coups au corps à corps
+WIKI_BONUS_43	Chance de bonus d'EXP
+WIKI_BONUS_44	Chance de Yang doublés
+WIKI_BONUS_53	Valeur d'attaque
+WIKI_BONUS_63	Force contre les monstres
+WIKI_BONUS_69	PV max
+WIKI_BONUS_72	Dégâts moyens
+WIKI_BONUS_73	Résistance aux dégâts de compétence
+WIKI_BONUS_74	Résistance aux dégâts moyens
+WIKI_BONUS_8	Vitesse de déplacement
+WIKI_BONUS_99	Puissance de la foudre
+WIKI_BOOSTER	Boosters
+WIKI_BOSSES	Boss
+WIKI_BOSS_TIER_DUNGEON	Boss de donjon
+WIKI_BOSS_TIER_LOW	Boss Bas Niveau
+WIKI_BOSS_TIER_MINI_DUNGEON	Mini Boss de donjon
+WIKI_CATEGORY_CRAFT	Fabrication
+WIKI_CATEGORY_SHOP	Boutique
+WIKI_CHESTS	Coffres
+WIKI_CHESTS_BOSS	Coffres de boss
+WIKI_CHESTS_DUNGEON	Coffres de donjon
+WIKI_CHESTS_EVENT	Coffres d'événement
+WIKI_CHESTS_OTHER	Autres coffres
+WIKI_CONTENT_INFO	Contenu du coffre %s
+WIKI_COSTUME	Costumes
+WIKI_COSTUMES	Costumes
+WIKI_COSTUME_TAB_ARMOR	Armures
+WIKI_COSTUME_TAB_HAIR	Coiffure
+WIKI_COSTUME_TAB_PETS	Familiers
+WIKI_COSTUME_TAB_SASH	Étole
+WIKI_COSTUME_TAB_SHINING	Brillance
+WIKI_COSTUME_TAB_WEAPON	Armes
+WIKI_CRAFT_INCREASE	Augmenter
+WIKI_CRAFT_MATERIALS	Matériaux
+WIKI_CRAFT_RESULT	Résultat
+WIKI_DROPLIST_INFO	Liste de drops de %s
+WIKI_ENERGY_CRYSTAL	Cristal d’énergie
+WIKI_ENIGMA_ITEMS	Objets Enigma
+WIKI_EQUIPMENT	Équipement
+WIKI_EQUIPMENT_ARMOR	Armures
+WIKI_EQUIPMENT_BELT	Ceintures
+WIKI_EQUIPMENT_BRACELET	Bracelets
+WIKI_EQUIPMENT_EARRING	Boucles d'oreilles
+WIKI_EQUIPMENT_HELMET	Casques
+WIKI_EQUIPMENT_NECKLACE	Colliers
+WIKI_EQUIPMENT_SHIELD	Boucliers
+WIKI_EQUIPMENT_SHOES	Chaussures
+WIKI_EQUIPMENT_WEAPONS	Armes
+WIKI_EVENTS	Événements
+WIKI_FAQ2	FAQ
+WIKI_FISHING_MINING	Pêche/Minage
+WIKI_GAME_RULES	Règles du jeu
+WIKI_GUIDES2	Infos Anka2
+WIKI_HOME	Accueil
+WIKI_INFO_NO_RACE	Aucun
+WIKI_INFO_RACE_ANIMAL	Animal
+WIKI_INFO_RACE_DARK	Ténèbres
+WIKI_INFO_RACE_DEVIL	Diable
+WIKI_INFO_RACE_EARTH	Terre
+WIKI_INFO_RACE_ELEC	Foudre
+WIKI_INFO_RACE_FIRE	Feu
+WIKI_INFO_RACE_HUMAN	Demi-humain
+WIKI_INFO_RACE_ICE	Glace
+WIKI_INFO_RACE_METIN	Pierre Metin
+WIKI_INFO_RACE_MILGYO	Mystique
+WIKI_INFO_RACE_ORC	Orc
+WIKI_INFO_RACE_UNDEAD	Zombie
+WIKI_INFO_RACE_WIND	Vent
+WIKI_INFO_RACE_ZODIAC	Zodiaque
+WIKI_INFO_RESIST_BELL	Gong
+WIKI_INFO_RESIST_BOW	Arc
+WIKI_INFO_RESIST_DAGGER	Lame
+WIKI_INFO_RESIST_FAN	Éventail
+WIKI_INFO_RESIST_MAGIC	Magie
+WIKI_INFO_RESIST_SWORD	Épée
+WIKI_INFO_RESIST_TWOHAND	Deux mains
+WIKI_ITEM_NAME	Nom de l'objet
+WIKI_ITEM_SNAKE_TAIL	Queue de serpent
+WIKI_ITEM_SPIDER_LEGS	Pattes d'araignée
+WIKI_LEVEL_MOB_TEXT	Niveau %d
+WIKI_LEVEL_TEXT	Niveau %d - Réduire la plage %d~%d
+WIKI_LEVEL_TEXT2	Niveau %d~%d - Réduire la plage %d~%d
+WIKI_METINSTONE	Pierres Metin
+WIKI_METIN_TIER_DUNGEON	Metin de donjon
+WIKI_METIN_TIER_RARE	Metins rares et légendaires
+WIKI_MOB_NAME	Nom de la créature
+WIKI_MONSTER	Monstres
+WIKI_MOUNT_ENERGY	énergie
+WIKI_MOUNT_ITEM	Montures
+WIKI_MOUNT_RUNES	Runes
+WIKI_NO_DATA	!
+WIKI_ORIGIN	Localisation
+WIKI_PETS	Familiers
+WIKI_PET_EVOLUTION	Évolution
+WIKI_SHOP_PRICE	Prix
+WIKI_SHRINES	Temples
+WIKI_STATICS_INFO_DEFENSES	|cFFc79e65Résistances :|h|r
+WIKI_STATICS_INFO_DMG	Dégâts min. : %d | Dégâts max. : %d | PV maximum : %d
+WIKI_STATICS_INFO_TYPE	Genre : %s | Sous-genre : %s
+WIKI_STATICS_INFO_YNG	Yang min. : %d | Yang max. : %d | EXP : %d
+WIKI_STONES_ALSO_AVAILABLE	Également disponibles :
+WIKI_SYSTEM2	Systèmes de base
+WIKI_TALISMAN	Talismans
+WIKI_TEMNITE	Donjons
+WIKI_THESTART2	Début
+WIKI_TIER_1	Tier I
+WIKI_TIER_2	Tier II
+WIKI_TIER_3	Tier III
+WIKI_TIER_4	Tier IV
+WIKI_TIER_5	Palier V
+WIKI_TITLE	Wikipédia
+WIKI_UNKOWN_ITEM	Objet inconnu : %d
+WIKI_UNKOWN_MOB	Créature inconnue : %d
+WIKI_UPGRADE_COSTS	Évolution
+WIKI_YANG_COSTS	Coût (yang)
+WIKI_ZODIAC	Temple du Zodiaque

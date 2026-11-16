@@ -1,0 +1,2 @@
+RECEIVE_MESSAGE	%s vous envoie un message.
+UI_DEF_FONT	Tahoma:12

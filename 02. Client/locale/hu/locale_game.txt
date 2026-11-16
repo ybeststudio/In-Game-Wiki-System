@@ -1,0 +1,2 @@
+RECEIVE_MESSAGE	%s üzenetet küldött neked.
+UI_DEF_FONT	Tahoma:12

@@ -1,0 +1,158 @@
+AUTO_GUIDE_START	Iniciar guía
+AUTO_ITEM_ADI	Nombre del objeto
+BERANSETAOU	Dragón Azul
+CATACUMB	Catacumbas del Diablo
+DEVILTOWER	Torre Gumsan
+ENERGY_CRYSTAL	Cristal de energía
+FLAMEDUNGEON	Fortaleza del Dragón Rojo
+HYDRADUNGEON	Defensa de barco
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Guarida de Meley
+SNOWDUNGEON	Observatorio de Nemere
+SPIDERBARONESA	Guarida de la Baronesa
+TASKBAR_SWITCHBOT	Bot de encantamientos
+TASKBAR_WIKI	Wiki
+TOOLTIP_SHORTCUT_MULTI_BUY	Compra múltiple
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Buscar Tienda
+TOOLTIP_SHORTCUT_WIKI	Abrir Wikipedia
+WIKI_AKZADUR	Mazmorra de Akzadur
+WIKI_ALCHEMY	Sistema de alquimia
+WIKI_ATTR_RARE	Bono 6/7
+WIKI_BIOLOGO	Biólogo
+WIKI_BONUS_10	Regeneración de PV
+WIKI_BONUS_100	Poder del fuego
+WIKI_BONUS_101	Poder del hielo
+WIKI_BONUS_102	Poder del viento
+WIKI_BONUS_103	Poder de la tierra
+WIKI_BONUS_104	Poder de la oscuridad
+WIKI_BONUS_11	Regeneración de PM
+WIKI_BONUS_119	Fuerte contra Metin
+WIKI_BONUS_12	Probabilidad de envenenar
+WIKI_BONUS_120	Fuerte contra jefes
+WIKI_BONUS_121	Fuerte en mazmorras
+WIKI_BONUS_123	Resistencia contra jefes
+WIKI_BONUS_13	Probabilidad de desmayo
+WIKI_BONUS_133	Fuerte contra elementos
+WIKI_BONUS_136	Poder de golpe perforante
+WIKI_BONUS_14	Probabilidad de ralentizar
+WIKI_BONUS_156	Daño de golpe crítico PvM
+WIKI_BONUS_23	El daño se absorbe con PV
+WIKI_BONUS_24	El daño se absorbe con PM
+WIKI_BONUS_27	Probabilidad de bloquear ataques cuerpo a cuerpo
+WIKI_BONUS_28	Probabilidad de esquivar flechas
+WIKI_BONUS_39	Probabilidad de reflejar golpes cuerpo a cuerpo
+WIKI_BONUS_43	Probabilidad de bono de EXP
+WIKI_BONUS_44	Probabilidad de doble Yang
+WIKI_BONUS_53	Valor de ataque
+WIKI_BONUS_63	Fuerte contra monstruos
+WIKI_BONUS_69	HP Máx
+WIKI_BONUS_72	Daño medio
+WIKI_BONUS_73	Resistencia al daño de habilidad
+WIKI_BONUS_74	Resistencia al daño medio
+WIKI_BONUS_8	Velocidad de movimiento
+WIKI_BONUS_99	Poder del rayo
+WIKI_BOOSTER	Potenciadores
+WIKI_BOSSES	Jefes
+WIKI_BOSS_TIER_DUNGEON	Jefe de mazmorra
+WIKI_BOSS_TIER_LOW	Jefe de Bajo Nivel
+WIKI_BOSS_TIER_MINI_DUNGEON	Minijefe de mazmorra
+WIKI_CATEGORY_CRAFT	Fabricar
+WIKI_CATEGORY_SHOP	Tienda
+WIKI_CHESTS	Cofres
+WIKI_CHESTS_BOSS	Cofres de Jefe
+WIKI_CHESTS_DUNGEON	Cofres de Mazmorra
+WIKI_CHESTS_EVENT	Cofres de Evento
+WIKI_CHESTS_OTHER	Otros Cofres
+WIKI_CONTENT_INFO	Contenido del cofre %s
+WIKI_COSTUME	Disfraces
+WIKI_COSTUMES	Atuendos
+WIKI_COSTUME_TAB_ARMOR	Armaduras
+WIKI_COSTUME_TAB_HAIR	Peinado
+WIKI_COSTUME_TAB_PETS	Mascotas
+WIKI_COSTUME_TAB_SASH	Banda
+WIKI_COSTUME_TAB_SHINING	Brillo
+WIKI_COSTUME_TAB_WEAPON	Armas
+WIKI_CRAFT_INCREASE	Aumentar
+WIKI_CRAFT_MATERIALS	Materiales
+WIKI_CRAFT_RESULT	Resultado
+WIKI_DROPLIST_INFO	Lista de botines de %s
+WIKI_ENERGY_CRYSTAL	Cristal de energía
+WIKI_ENIGMA_ITEMS	Objetos del Enigma
+WIKI_EQUIPMENT	Equipamiento
+WIKI_EQUIPMENT_ARMOR	Armaduras
+WIKI_EQUIPMENT_BELT	Cinturones
+WIKI_EQUIPMENT_BRACELET	Pulseras
+WIKI_EQUIPMENT_EARRING	Pendientes
+WIKI_EQUIPMENT_HELMET	Cascos
+WIKI_EQUIPMENT_NECKLACE	Collares
+WIKI_EQUIPMENT_SHIELD	Escudos
+WIKI_EQUIPMENT_SHOES	Botas
+WIKI_EQUIPMENT_WEAPONS	Armas
+WIKI_EVENTS	Eventos
+WIKI_FAQ2	Preguntas frecuentes
+WIKI_FISHING_MINING	Pesca/Minería
+WIKI_GAME_RULES	Reglas del juego
+WIKI_GUIDES2	Información de Anka2
+WIKI_HOME	Inicio
+WIKI_INFO_NO_RACE	Ninguno
+WIKI_INFO_RACE_ANIMAL	Animal
+WIKI_INFO_RACE_DARK	Oscuridad
+WIKI_INFO_RACE_DEVIL	Demonio
+WIKI_INFO_RACE_EARTH	Tierra
+WIKI_INFO_RACE_ELEC	Rayo
+WIKI_INFO_RACE_FIRE	Fuego
+WIKI_INFO_RACE_HUMAN	Semi-Humano
+WIKI_INFO_RACE_ICE	Hielo
+WIKI_INFO_RACE_METIN	Piedra Metin
+WIKI_INFO_RACE_MILGYO	Místico
+WIKI_INFO_RACE_ORC	Orco
+WIKI_INFO_RACE_UNDEAD	Zombi
+WIKI_INFO_RACE_WIND	Viento
+WIKI_INFO_RACE_ZODIAC	Zodiaco
+WIKI_INFO_RESIST_BELL	Campana
+WIKI_INFO_RESIST_BOW	Arco
+WIKI_INFO_RESIST_DAGGER	Hoja
+WIKI_INFO_RESIST_FAN	Abanico
+WIKI_INFO_RESIST_MAGIC	Magia
+WIKI_INFO_RESIST_SWORD	Espada
+WIKI_INFO_RESIST_TWOHAND	Dos manos
+WIKI_ITEM_NAME	Nombre del objeto
+WIKI_ITEM_SNAKE_TAIL	Cola de serpiente
+WIKI_ITEM_SPIDER_LEGS	Patas de araña
+WIKI_LEVEL_MOB_TEXT	Niv. %d
+WIKI_LEVEL_TEXT	Nivel %d - Reducir rango %d~%d
+WIKI_LEVEL_TEXT2	Nivel %d~%d - Reducir rango %d~%d
+WIKI_METINSTONE	Piedras Metin
+WIKI_METIN_TIER_DUNGEON	Metin de mazmorra
+WIKI_METIN_TIER_RARE	Metines raros y legendarios
+WIKI_MOB_NAME	Nombre de banda
+WIKI_MONSTER	Monstruos
+WIKI_MOUNT_ENERGY	energía
+WIKI_MOUNT_ITEM	Monturas
+WIKI_MOUNT_RUNES	Runas
+WIKI_NO_DATA	-
+WIKI_ORIGIN	Ubicación
+WIKI_PETS	Mascotas
+WIKI_PET_EVOLUTION	Evolución
+WIKI_SHOP_PRICE	Precio
+WIKI_SHRINES	Santuarios
+WIKI_STATICS_INFO_DEFENSES	|cFFc79e65Resistencias:|h|r
+WIKI_STATICS_INFO_DMG	Daño mín.:%d | Daño máx.:%d | PV máximos: %d
+WIKI_STATICS_INFO_TYPE	Tipo: %s | Subtipo: %s
+WIKI_STATICS_INFO_YNG	Yang mín.:%d | Yang máx.:%d | EXP: %d
+WIKI_STONES_ALSO_AVAILABLE	También disponibles:
+WIKI_SYSTEM2	Sistemas básicos
+WIKI_TALISMAN	Talismanes
+WIKI_TEMNITE	Mazmorras
+WIKI_THESTART2	Inicio
+WIKI_TIER_1	Rango I
+WIKI_TIER_2	Rango II
+WIKI_TIER_3	Rango III
+WIKI_TIER_4	Rango IV
+WIKI_TIER_5	Grado V
+WIKI_TITLE	Wikipedia
+WIKI_UNKOWN_ITEM	Objeto desconocido: %d
+WIKI_UNKOWN_MOB	Banda desconocida: %d
+WIKI_UPGRADE_COSTS	Evolución
+WIKI_YANG_COSTS	Coste (yang)
+WIKI_ZODIAC	Templo del Zodíaco

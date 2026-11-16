@@ -1,0 +1,158 @@
+AUTO_GUIDE_START	Porneºte ghidul
+AUTO_ITEM_ADI	Numele obiectului
+BERANSETAOU	Dragonul Albastru
+CATACUMB	Catacombele Diavolului
+DEVILTOWER	Turnul Gumsan
+ENERGY_CRYSTAL	Cristal de energie
+FLAMEDUNGEON	Castelul Dragonului Roºu
+HYDRADUNGEON	Apãrarea Navei
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Adapostul lui Meley
+SNOWDUNGEON	Observatorul lui Nemere
+SPIDERBARONESA	Cuibul Baronesei Pãianjen
+TASKBAR_SWITCHBOT	Bot de vrãji
+TASKBAR_WIKI	Wiki
+TOOLTIP_SHORTCUT_MULTI_BUY	Cumpãrare multiplã
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cautã în magazin
+TOOLTIP_SHORTCUT_WIKI	Deschide Wikipedia
+WIKI_AKZADUR	Temniþa Akzadur
+WIKI_ALCHEMY	Sistemul Alchimiei
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biolog
+WIKI_BONUS_10	Regenerare HP
+WIKI_BONUS_100	Puterea focului
+WIKI_BONUS_101	Puterea gheþii
+WIKI_BONUS_102	Puterea vântului
+WIKI_BONUS_103	Puterea pãmântului
+WIKI_BONUS_104	Puterea întunericului
+WIKI_BONUS_11	Regenerare SP
+WIKI_BONUS_119	Putere împotriva Pietrelor Metin
+WIKI_BONUS_12	ªansã de otrãvire
+WIKI_BONUS_120	Putere împotriva Boºilor
+WIKI_BONUS_121	Putere în temniþe
+WIKI_BONUS_123	Rezistenþã împotriva boºilor
+WIKI_BONUS_13	ªansã de ameþire
+WIKI_BONUS_133	Putere împotriva elementelor
+WIKI_BONUS_136	Putere loviturã perforantã
+WIKI_BONUS_14	ªansã de încetinire
+WIKI_BONUS_156	Daune loviturã criticã PvM
+WIKI_BONUS_23	Daunele sunt absorbite ca HP
+WIKI_BONUS_24	Daunele sunt absorbite ca SP
+WIKI_BONUS_27	ªansã de blocare a atacurilor corp la corp
+WIKI_BONUS_28	ªansã de evitare a sãgeþilor
+WIKI_BONUS_39	ªansã de reflectare a loviturilor corp la corp
+WIKI_BONUS_43	ªansã bonus EXP
+WIKI_BONUS_44	ªansã de Yang dublu
+WIKI_BONUS_53	Valoarea Atacului
+WIKI_BONUS_63	Putere împotriva monºtrilor
+WIKI_BONUS_69	CP maxim
+WIKI_BONUS_72	Daune medii
+WIKI_BONUS_73	Rezistenþã la daunele abilitãþilor
+WIKI_BONUS_74	Rezistenþã la daune medii
+WIKI_BONUS_8	Viteza de miscare
+WIKI_BONUS_99	Puterea fulgerului
+WIKI_BOOSTER	Amplificatoare
+WIKI_BOSSES	Sefi
+WIKI_BOSS_TIER_DUNGEON	Sefi-Temnite
+WIKI_BOSS_TIER_LOW	Seful de nivel scazut
+WIKI_BOSS_TIER_MINI_DUNGEON	Mini-sefi-Temnite
+WIKI_CATEGORY_CRAFT	Craft
+WIKI_CATEGORY_SHOP	Magazin
+WIKI_CHESTS	Cufere
+WIKI_CHESTS_BOSS	Cufere Boss
+WIKI_CHESTS_DUNGEON	Cufere de temnita
+WIKI_CHESTS_EVENT	Cufere pentru evenimente
+WIKI_CHESTS_OTHER	Alte Cufere
+WIKI_CONTENT_INFO	Continut cufar %s
+WIKI_COSTUME	Costumele
+WIKI_COSTUMES	Costume
+WIKI_COSTUME_TAB_ARMOR	Armura
+WIKI_COSTUME_TAB_HAIR	Tunsoare
+WIKI_COSTUME_TAB_PETS	Animale de companie
+WIKI_COSTUME_TAB_SASH	Esarfã
+WIKI_COSTUME_TAB_SHINING	Stralucitor
+WIKI_COSTUME_TAB_WEAPON	Arme
+WIKI_CRAFT_INCREASE	Creºtere
+WIKI_CRAFT_MATERIALS	Materiale
+WIKI_CRAFT_RESULT	Rezultat
+WIKI_DROPLIST_INFO	Lista de eliminare a %s
+WIKI_ENERGY_CRYSTAL	Cristal de energie
+WIKI_ENIGMA_ITEMS	Obiecte Enigma
+WIKI_EQUIPMENT	Echipamente
+WIKI_EQUIPMENT_ARMOR	Armura
+WIKI_EQUIPMENT_BELT	Curele
+WIKI_EQUIPMENT_BRACELET	Bratari
+WIKI_EQUIPMENT_EARRING	Cercei
+WIKI_EQUIPMENT_HELMET	Casti
+WIKI_EQUIPMENT_NECKLACE	Coliere
+WIKI_EQUIPMENT_SHIELD	Scuturi
+WIKI_EQUIPMENT_SHOES	Pantofi
+WIKI_EQUIPMENT_WEAPONS	Arme
+WIKI_EVENTS	Evenimente
+WIKI_FAQ2	Întrebãri frecvente
+WIKI_FISHING_MINING	Pescuit/Mineritul
+WIKI_GAME_RULES	Regulile jocului
+WIKI_GUIDES2	Informaþii Anka2
+WIKI_HOME	Pagina principalã
+WIKI_INFO_NO_RACE	Nici unul
+WIKI_INFO_RACE_ANIMAL	Animal
+WIKI_INFO_RACE_DARK	Intuneric
+WIKI_INFO_RACE_DEVIL	Diavol
+WIKI_INFO_RACE_EARTH	Pamant
+WIKI_INFO_RACE_ELEC	Fulger
+WIKI_INFO_RACE_FIRE	Foc
+WIKI_INFO_RACE_HUMAN	Half-Human
+WIKI_INFO_RACE_ICE	Gheata
+WIKI_INFO_RACE_METIN	Piatra Metin
+WIKI_INFO_RACE_MILGYO	Mistic
+WIKI_INFO_RACE_ORC	Orc
+WIKI_INFO_RACE_UNDEAD	Zombi
+WIKI_INFO_RACE_WIND	Vant
+WIKI_INFO_RACE_ZODIAC	Zodiac
+WIKI_INFO_RESIST_BELL	Clopot
+WIKI_INFO_RESIST_BOW	Arc
+WIKI_INFO_RESIST_DAGGER	Lama
+WIKI_INFO_RESIST_FAN	Evantai
+WIKI_INFO_RESIST_MAGIC	Magie
+WIKI_INFO_RESIST_SWORD	Sabie
+WIKI_INFO_RESIST_TWOHAND	Douã mâini
+WIKI_ITEM_NAME	Nume articol
+WIKI_ITEM_SNAKE_TAIL	Coada ºarpelui
+WIKI_ITEM_SPIDER_LEGS	Picioarele pãianjenului
+WIKI_LEVEL_MOB_TEXT	Nivel %d
+WIKI_LEVEL_TEXT	Nivel %d - Restrânge intervalul %d~%d
+WIKI_LEVEL_TEXT2	Nivel %d~%d - Restrânge intervalul %d~%d
+WIKI_METINSTONE	Pietre Metin
+WIKI_METIN_TIER_DUNGEON	Metin din Temnita
+WIKI_METIN_TIER_RARE	Metine Rare si Legendare
+WIKI_MOB_NAME	Nume monstru
+WIKI_MONSTER	Monstri
+WIKI_MOUNT_ENERGY	energie
+WIKI_MOUNT_ITEM	Monturi
+WIKI_MOUNT_RUNES	Rune
+WIKI_NO_DATA	-
+WIKI_ORIGIN	Locatie
+WIKI_PETS	Insotitori
+WIKI_PET_EVOLUTION	Evoluþie
+WIKI_SHOP_PRICE	Preþ
+WIKI_SHRINES	Temple
+WIKI_STATICS_INFO_DEFENSES	|cFFc79e65Rezistenþe:|h|r
+WIKI_STATICS_INFO_DMG	Daune min.:%d | Daune max.:%d | HP maxim: %d
+WIKI_STATICS_INFO_TYPE	Tip: %s | Subtip: %s
+WIKI_STATICS_INFO_YNG	Yang min.:%d | Yang max.:%d | EXP: %d
+WIKI_STONES_ALSO_AVAILABLE	Disponibile si:
+WIKI_SYSTEM2	Sisteme de bazã
+WIKI_TALISMAN	Talismane
+WIKI_TEMNITE	Temnite
+WIKI_THESTART2	Inceput
+WIKI_TIER_1	Nivelul I
+WIKI_TIER_2	Nivelul II
+WIKI_TIER_3	Nivelul III
+WIKI_TIER_4	Nivelul IV
+WIKI_TIER_5	Nivel V
+WIKI_TITLE	Wikipedia
+WIKI_UNKOWN_ITEM	Obiect necunoscut: %d
+WIKI_UNKOWN_MOB	Monstru necunoscut: %d
+WIKI_UPGRADE_COSTS	Evolutie
+WIKI_YANG_COSTS	Cost (yang)
+WIKI_ZODIAC	Templul Zodiacului
