@@ -2,7 +2,7 @@
 
 Oyun içi ansiklopedi. Eşya, canavar, zindan, sistem ve rehber sayfaları; 3D önizleme, arama, kategori ağacı ve çok dilli içerik.
 
-![Önizleme](preview.png)
+![Önizleme](preview2.png)
 
 ---
 
