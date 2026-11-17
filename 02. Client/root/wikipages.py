@@ -1413,7 +1413,7 @@ class MonsterStatics(WikiUI.DefaultWikiImage):
 			(nonplayer.MOB_RESIST_DAGGER, "WIKI_INFO_RESIST_DAGGER"), (nonplayer.MOB_RESIST_BELL, "WIKI_INFO_RESIST_BELL"),
 			(nonplayer.MOB_RESIST_FAN, "WIKI_INFO_RESIST_FAN"), (nonplayer.MOB_RESIST_BOW, "WIKI_INFO_RESIST_BOW"),
 			(nonplayer.MOB_RESIST_MAGIC, "WIKI_INFO_RESIST_MAGIC")):
-			AppendListText(self, box, E + _L(key, key + " %d") % nonplayer.GetMonsterResist(mob, idx), 13, y)
+			AppendListText(self, box, E + "%s: %d%%" % (_L(key, key), nonplayer.GetMonsterResist(mob, idx)), 13, y)
 			y += 14
 
 class MonsterItemSpecial(WikiUI.DefaultWikiImage):
